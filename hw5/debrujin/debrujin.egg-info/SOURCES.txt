@@ -1,0 +1,8 @@
+README.rst
+setup.py
+debrujin/__init__.py
+debrujin.egg-info/PKG-INFO
+debrujin.egg-info/SOURCES.txt
+debrujin.egg-info/dependency_links.txt
+debrujin.egg-info/requires.txt
+debrujin.egg-info/top_level.txt

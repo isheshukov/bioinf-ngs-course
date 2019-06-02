@@ -1,0 +1,6 @@
+Loading required package: stats4
+Loading required package: splines
+Read 25000 items
+Error in est.cov(cov) : 
+  Cannot identify reliable trusted k-mer coverage peak. Please verify the integrity of your dataset (e.g. by running kmer_hist.r). If there is no clear trusted k-mer distribution, the coverage is too low to correct these reads. If there is, please e-mail dakelley@umiacs.umd.edu and choose the cutoff by hand in the meantime
+Execution halted

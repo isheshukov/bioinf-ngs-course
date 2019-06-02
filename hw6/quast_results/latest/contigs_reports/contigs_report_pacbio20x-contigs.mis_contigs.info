@@ -1,0 +1,11 @@
+tig00000001
+Extensive misassembly (relocation, inconsistency = 505587) between 482200 1 and 482201 483395
+Extensive misassembly (relocation, inconsistency = 988219) between 482201 483395 and 573230 483396
+Extensive misassembly (inversion) between 573230 483396 and 573231 575026
+Extensive misassembly (inversion) between 573231 575026 and 685754 575027
+tig00000010
+Extensive misassembly (relocation, inconsistency = 237336) between 243578 1 and 244346 243579
+Extensive misassembly (relocation, inconsistency = -238112) between 244346 243579 and 273158 244347
+tig00000023
+Extensive misassembly (relocation, inconsistency = -106240) between 78991 1 and 79759 78992
+Extensive misassembly (relocation, inconsistency = 105463) between 79759 78992 and 164611 79760

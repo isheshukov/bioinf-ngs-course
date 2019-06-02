@@ -1,0 +1,2 @@
+ecoli_400K_err_1.fastq 
+ecoli_400K_err_2.fastq

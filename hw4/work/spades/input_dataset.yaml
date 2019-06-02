@@ -1,0 +1,6 @@
+- "left reads":
+  - "/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/data/ecoli_400K_err_1.fastq"
+  "orientation": "fr"
+  "right reads":
+  - "/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/data/ecoli_400K_err_2.fastq"
+  "type": "paired-end"

@@ -1,0 +1,30 @@
+Command line: /home/ilia/.local/share/miniconda/bin/spades.py	--only-error-correction	--pe1-1	/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/data/ecoli_400K_err_1.fastq	--pe1-2	/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/data/ecoli_400K_err_2.fastq	-o	/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/spades	
+
+System information:
+  SPAdes version: 3.13.1
+  Python version: 2.7.16
+  OS: Linux-5.0.0-15-generic-x86_64-with-debian-buster-sid
+
+Output dir: /home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/spades
+Mode: ONLY read error correction (without assembling)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/data/ecoli_400K_err_1.fastq']
+      right reads: ['/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/data/ecoli_400K_err_2.fastq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Other parameters:
+  Dir for temp files: /home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/spades/tmp
+  Threads: 16
+  Memory limit (in Gb): 7
+

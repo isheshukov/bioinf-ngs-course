@@ -1,0 +1,1 @@
+../data/ecoli_400K_err_1.fastq ../data/ecoli_400K_err_2.fastq

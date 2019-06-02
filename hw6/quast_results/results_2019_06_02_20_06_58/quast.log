@@ -1,0 +1,280 @@
+/home/isheshukov/miniconda3/envs/quast/bin/quast -r data/reference.fasta hybrid10x/contigs.fasta hybrid20x/contigs.fasta hybrid40x/contigs.fasta hybrid80x/contigs.fasta illumina100x/contigs.fasta pacbio10x/pacbio10x.contigs.fasta pacbio20x/pacbio20x.contigs.fasta pacbio40x/pacbio40x.contigs.fasta pacbio80x/pacbio80x.contigs.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-4.18.0-2-amd64-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.5.0
+  CPUs number: 64
+
+Started: 2019-06-02 20:06:58
+
+Logging to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/quast.log
+NOTICE: Maximum number of threads is set to 16 (use --threads option to set it manually)
+
+CWD: /home/isheshukov/hgs/hw6
+Main parameters: 
+  MODE: default, threads: 16, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/isheshukov/hgs/hw6/data/reference.fasta ==> reference
+
+Contigs:
+  Pre-processing...
+  1  hybrid10x/contigs.fasta ==> hybrid10x_contigs
+  2  hybrid20x/contigs.fasta ==> hybrid20x_contigs
+  3  hybrid40x/contigs.fasta ==> hybrid40x_contigs
+  4  hybrid80x/contigs.fasta ==> hybrid80x_contigs
+  5  illumina100x/contigs.fasta ==> illumina100x_contigs
+  6  pacbio10x/pacbio10x.contigs.fasta ==> pacbio10x.contigs
+  7  pacbio20x/pacbio20x.contigs.fasta ==> pacbio20x.contigs
+  8  pacbio40x/pacbio40x.contigs.fasta ==> pacbio40x.contigs
+  9  pacbio80x/pacbio80x.contigs.fasta ==> pacbio80x.contigs
+
+2019-06-02 20:07:07
+Running Basic statistics processor...
+  Reference genome:
+    reference.fasta, length = 4639675, num fragments = 1, GC % = 50.79
+  Contig files: 
+    1  hybrid10x_contigs
+    2  hybrid20x_contigs
+    3  hybrid40x_contigs
+    4  hybrid80x_contigs
+    5  illumina100x_contigs
+    6  pacbio10x.contigs
+    7  pacbio20x.contigs
+    8  pacbio40x.contigs
+    9  pacbio80x.contigs
+  Calculating N50 and L50...
+    1  hybrid10x_contigs, N50 = 292022, L50 = 6, Total length = 4611325, GC % = 50.76, # N's per 100 kbp =  0.00
+    2  hybrid20x_contigs, N50 = 737360, L50 = 2, Total length = 4619278, GC % = 50.78, # N's per 100 kbp =  0.00
+    3  hybrid40x_contigs, N50 = 2774924, L50 = 1, Total length = 4631312, GC % = 50.78, # N's per 100 kbp =  0.00
+    4  hybrid80x_contigs, N50 = 4642160, L50 = 1, Total length = 4642702, GC % = 50.79, # N's per 100 kbp =  0.00
+    5  illumina100x_contigs, N50 = 133059, L50 = 12, Total length = 4561438, GC % = 50.74, # N's per 100 kbp =  0.00
+    6  pacbio10x.contigs, N50 = 47884, L50 = 27, Total length = 3817958, GC % = 50.50, # N's per 100 kbp =  0.00
+    7  pacbio20x.contigs, N50 = 273158, L50 = 5, Total length = 4606872, GC % = 50.76, # N's per 100 kbp =  0.00
+    8  pacbio40x.contigs, N50 = 4640800, L50 = 1, Total length = 4656608, GC % = 50.76, # N's per 100 kbp =  0.00
+    9  pacbio80x.contigs, N50 = 4652982, L50 = 1, Total length = 4652982, GC % = 50.79, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/GC_content_plot.pdf
+  Drawing hybrid10x_contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid10x_contigs_GC_content_plot.pdf
+  Drawing hybrid20x_contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid20x_contigs_GC_content_plot.pdf
+  Drawing hybrid40x_contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid40x_contigs_GC_content_plot.pdf
+  Drawing hybrid80x_contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid80x_contigs_GC_content_plot.pdf
+  Drawing illumina100x_contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/illumina100x_contigs_GC_content_plot.pdf
+  Drawing pacbio10x.contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/pacbio10x.contigs_GC_content_plot.pdf
+  Drawing pacbio20x.contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/pacbio20x.contigs_GC_content_plot.pdf
+  Drawing pacbio40x.contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/pacbio40x.contigs_GC_content_plot.pdf
+  Drawing pacbio80x.contigs GC content plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/pacbio80x.contigs_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/coverage_histogram.pdf
+  Drawing hybrid10x_contigs coverage histogram (bin size: 1x)...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid10x_contigs_coverage_histogram.pdf
+  Drawing hybrid20x_contigs coverage histogram (bin size: 1x)...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid20x_contigs_coverage_histogram.pdf
+  Drawing hybrid40x_contigs coverage histogram (bin size: 1x)...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid40x_contigs_coverage_histogram.pdf
+  Drawing hybrid80x_contigs coverage histogram (bin size: 1x)...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/hybrid80x_contigs_coverage_histogram.pdf
+  Drawing illumina100x_contigs coverage histogram (bin size: 1x)...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/basic_stats/illumina100x_contigs_coverage_histogram.pdf
+Done.
+
+2019-06-02 20:07:24
+Running Contig analyzer...
+  1  hybrid10x_contigs
+  2  hybrid20x_contigs
+  1  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid10x_contigs.stdout and contigs_report_hybrid10x_contigs.stderr...
+  1  Aligning contigs to the reference
+  2  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid20x_contigs.stdout and contigs_report_hybrid20x_contigs.stderr...
+  3  hybrid40x_contigs
+  2  Aligning contigs to the reference
+  3  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid40x_contigs.stdout and contigs_report_hybrid40x_contigs.stderr...
+  4  hybrid80x_contigs
+  3  Aligning contigs to the reference
+  5  illumina100x_contigs
+  4  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid80x_contigs.stdout and contigs_report_hybrid80x_contigs.stderr...
+  4  Aligning contigs to the reference
+  5  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_illumina100x_contigs.stdout and contigs_report_illumina100x_contigs.stderr...
+  6  pacbio10x.contigs
+  5  Aligning contigs to the reference
+  7  pacbio20x.contigs
+  6  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio10x-contigs.stdout and contigs_report_pacbio10x-contigs.stderr...
+  6  Aligning contigs to the reference
+  7  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio20x-contigs.stdout and contigs_report_pacbio20x-contigs.stderr...
+  7  Aligning contigs to the reference
+  8  pacbio40x.contigs
+  9  pacbio80x.contigs
+  9  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio80x-contigs.stdout and contigs_report_pacbio80x-contigs.stderr...
+  8  Logging to files /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio40x-contigs.stdout and contigs_report_pacbio40x-contigs.stderr...
+  9  Aligning contigs to the reference
+  8  Aligning contigs to the reference
+  6  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/pacbio10x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/pacbio10x-contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio10x-contigs.stderr
+  7  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/pacbio20x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/pacbio20x-contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio20x-contigs.stderr
+  2  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/hybrid20x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/hybrid20x_contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid20x_contigs.stderr
+  4  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/hybrid80x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/hybrid80x_contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid80x_contigs.stderr
+  5  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/illumina100x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/illumina100x_contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_illumina100x_contigs.stderr
+  1  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/hybrid10x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/hybrid10x_contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid10x_contigs.stderr
+  3  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/hybrid40x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/hybrid40x_contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_hybrid40x_contigs.stderr
+  9  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/pacbio80x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/pacbio80x-contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio80x-contigs.stderr
+  8  /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta \
+     quast_results/results_2019_06_02_20_06_58/quast_corrected_input/pacbio40x_contigs.fasta \
+     > quast_results/results_2019_06_02_20_06_58/contigs_reports/minimap_output/pacbio40x-contigs.coords_tmp \
+     2>> quast_results/results_2019_06_02_20_06_58/contigs_reports/contigs_report_pacbio40x-contigs.stderr
+  7  Analysis is finished.
+
+  6  Analysis is finished.
+
+  1  Analysis is finished.
+
+  5  Analysis is finished.
+
+  2  Analysis is finished.
+
+  4  Analysis is finished.
+
+  3  Analysis is finished.
+
+  9  Analysis is finished.
+
+  8  Analysis is finished.
+
+  Creating total report...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2019-06-02 20:07:31
+Running NA-NGA calculation...
+  1  hybrid10x_contigs, Largest alignment = 572344, NA50 = 241223, NGA50 = 241223, LA50 = 7, LGA50 = 7
+  2  hybrid20x_contigs, Largest alignment = 1040112, NA50 = 693225, NGA50 = 693225, LA50 = 3, LGA50 = 3
+  3  hybrid40x_contigs, Largest alignment = 1040379, NA50 = 727539, NGA50 = 727539, LA50 = 3, LGA50 = 3
+  4  hybrid80x_contigs, Largest alignment = 2594619, NA50 = 2594619, NGA50 = 2594619, LA50 = 1, LGA50 = 1
+  5  illumina100x_contigs, Largest alignment = 315011, NA50 = 133059, NGA50 = 133059, LA50 = 12, LGA50 = 12
+  6  pacbio10x.contigs, Largest alignment = 149583, NA50 = 46336, NGA50 = 41896, LA50 = 28, LGA50 = 37
+  7  pacbio20x.contigs, Largest alignment = 514798, NA50 = 243578, NGA50 = 243578, LA50 = 6, LGA50 = 6
+  8  pacbio40x.contigs, Largest alignment = 3022594, NA50 = 3022594, NGA50 = 3022594, LA50 = 1, LGA50 = 1
+  9  pacbio80x.contigs, Largest alignment = 3026086, NA50 = 3026086, NGA50 = 3026086, LA50 = 1, LGA50 = 1
+  Drawing cumulative plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/aligned_stats/NGAx_plot.pdf
+Done.
+
+2019-06-02 20:07:35
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  hybrid10x_contigs
+  2  hybrid20x_contigs
+  3  hybrid40x_contigs
+  4  hybrid80x_contigs
+  5  illumina100x_contigs
+  6  pacbio10x.contigs
+  7  pacbio20x.contigs
+  8  pacbio40x.contigs
+  9  pacbio80x.contigs
+  6  Analysis is finished.
+  5  Analysis is finished.
+  9  Analysis is finished.
+  3  Analysis is finished.
+  7  Analysis is finished.
+  4  Analysis is finished.
+  2  Analysis is finished.
+  8  Analysis is finished.
+  1  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2019-06-02 20:07:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2019-06-02 20:07:49
+RESULTS:
+  Text versions of total report are saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/report.html
+  PDF version (tables and plots) is saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/report.pdf
+  Icarus (contig browser) is saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/icarus.html
+  Log is saved to /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/quast.log
+
+Finished: 2019-06-02 20:07:49
+Elapsed time: 0:00:51.188383
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

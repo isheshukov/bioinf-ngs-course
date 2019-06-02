@@ -1,0 +1,8 @@
+- "left reads":
+  - "/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/spades/corrected/ecoli_400K_err_1.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/spades/corrected/ecoli_400K_err_2.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/home/ilia/src/projects/bioinf/sem2/ngs/hw/hw4/work/spades/corrected/ecoli_400K_err__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

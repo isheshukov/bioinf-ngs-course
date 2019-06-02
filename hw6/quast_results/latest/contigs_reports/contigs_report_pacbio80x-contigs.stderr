@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.268*1.05] collected minimizers
+[M::mm_idx_gen::0.334*1.04] sorted minimizers
+[M::main::0.334*1.04] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.346*1.03] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.355*1.03] distinct minimizers: 454544 (99.24% are singletons); average occurrences: 1.021; average spacing: 9.997
+[M::worker_pipeline::2.775*1.00] mapped 1 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /home/isheshukov/miniconda3/envs/quast/lib/python3.5/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/quast_corrected_input/reference.fasta /home/isheshukov/hgs/hw6/quast_results/results_2019_06_02_20_06_58/quast_corrected_input/pacbio80x_contigs.fasta
+[M::main] Real time: 2.802 sec; CPU: 2.812 sec

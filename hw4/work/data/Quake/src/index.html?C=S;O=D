@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /students/4/Quake/src</title>
+ </head>
+ <body>
+<h1>Index of /students/4/Quake/src</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/students/4/Quake/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="correct">correct</a></td><td align="right">2018-05-28 21:57  </td><td align="right">153K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="trim">trim</a></td><td align="right">2018-05-28 21:58  </td><td align="right">127K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="edit.o">edit.o</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Read.o">Read.o</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 41K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="build_bithash">build_bithash</a></td><td align="right">2018-05-28 21:58  </td><td align="right"> 41K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="correct_stats">correct_stats</a></td><td align="right">2018-05-28 21:58  </td><td align="right"> 39K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="count_qmers">count_qmers</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 36K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="count-qmers">count-qmers</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 33K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="bithash.o">bithash.o</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 29K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="count-kmers">count-kmers</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Read.cpp">Read.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 24K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="correct.cpp">correct.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 23K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="edit.cpp">edit.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="libgzstream.a">libgzstream.a</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="gzstream.o">gzstream.o</a></td><td align="right">2018-05-28 21:57  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="reduce-qmers">reduce-qmers</a></td><td align="right">2018-05-28 21:58  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="reduce-kmers">reduce-kmers</a></td><td align="right">2018-05-28 21:58  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="qmer_hash.o">qmer_hash.o</a></td><td align="right">2018-05-28 21:57  </td><td align="right">9.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="bithash.cpp">bithash.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">9.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count_qmers.cpp">count_qmers.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">9.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="qmer_hash.cpp">qmer_hash.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">8.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count-qmers.cpp">count-qmers.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">8.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="trim.cpp">trim.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">6.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="stats.cpp">stats.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">6.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count-kmers.cpp">count-kmers.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">6.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="count.o">count.o</a></td><td align="right">2018-05-28 21:57  </td><td align="right">5.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="gzstream.C">gzstream.C</a></td><td align="right">2018-05-28 21:57  </td><td align="right">5.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="build_bithash.cpp">build_bithash.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">4.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="gzstream.h">gzstream.h</a></td><td align="right">2018-05-28 21:57  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Read.h">Read.h</a></td><td align="right">2018-05-28 21:57  </td><td align="right">3.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count.cpp">count.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">2.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count.h">count.h</a></td><td align="right">2018-05-28 21:57  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="qmer_hash.h">qmer_hash.h</a></td><td align="right">2018-05-28 21:57  </td><td align="right">1.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Makefile">Makefile</a></td><td align="right">2018-05-28 21:57  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="edit.h">edit.h</a></td><td align="right">2018-05-28 21:57  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="bithash.h">bithash.h</a></td><td align="right">2018-05-28 21:57  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="reduce-qmers.cpp">reduce-qmers.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">948 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="reduce-kmers.cpp">reduce-kmers.cpp</a></td><td align="right">2018-05-28 21:57  </td><td align="right">897 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.17 (Debian) Server at spades.bioinf.spbau.ru Port 80</address>
+</body></html>

@@ -1,3 +1,4 @@
+*.fasta filter=lfs diff=lfs merge=lfs -text
 *.fastq filter=lfs diff=lfs merge=lfs -text
 *.qcts filter=lfs diff=lfs merge=lfs -text
 *.depth filter=lfs diff=lfs merge=lfs -text

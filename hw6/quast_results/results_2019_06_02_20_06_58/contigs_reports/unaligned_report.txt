@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       hybrid10x_contigs  hybrid20x_contigs  hybrid40x_contigs  hybrid80x_contigs  illumina100x_contigs  pacbio10x.contigs  pacbio20x.contigs  pacbio40x.contigs  pacbio80x.contigs
+# fully unaligned contigs      1                  1                  1                  1                  1                     0                  0                  0                  0                
+Fully unaligned length         542                542                542                542                542                   0                  0                  0                  0                
+# partially unaligned contigs  0                  0                  0                  0                  0                     0                  0                  0                  0                
+Partially unaligned length     0                  0                  0                  0                  0                     0                  0                  0                  0                
+# N's                          0                  0                  0                  0                  0                     0                  0                  0                  0                

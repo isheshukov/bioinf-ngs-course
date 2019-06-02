@@ -1,0 +1,21 @@
+Assembly	hybrid10x_contigs	hybrid20x_contigs	hybrid40x_contigs	hybrid80x_contigs	illumina100x_contigs	pacbio10x.contigs	pacbio20x.contigs	pacbio40x.contigs	pacbio80x.contigs
+# misassemblies	5	6	6	6	1	11	8	8	8
+  # contig misassemblies	5	6	6	6	1	11	8	8	8
+    # c. relocations	5	6	6	6	1	7	6	6	6
+    # c. translocations	0	0	0	0	0	0	0	0	0
+    # c. inversions	0	0	0	0	0	4	2	2	2
+  # scaffold misassemblies	0	0	0	0	0	0	0	0	0
+    # s. relocations	0	0	0	0	0	0	0	0	0
+    # s. translocations	0	0	0	0	0	0	0	0	0
+    # s. inversions	0	0	0	0	0	0	0	0	0
+# misassembled contigs	3	1	1	1	1	7	3	1	1
+Misassembled contigs length	1220159	2076249	2774924	4642160	201176	345889	1187160	4640800	4652982
+# local misassemblies	6	6	5	5	9	1	2	2	2
+# scaffold gap ext. mis.	0	0	0	0	0	0	0	0	0
+# scaffold gap loc. mis.	0	0	0	0	0	0	0	0	0
+# unaligned mis. contigs	0	0	0	0	0	0	0	0	0
+# mismatches	297	339	325	388	64	1860	277	57	19
+# indels	461	31	31	34	20	25808	6928	1586	528
+    # indels (<= 5 bp)	457	29	29	32	16	25785	6926	1586	528
+    # indels (> 5 bp)	4	2	2	2	4	23	2	0	0
+Indels length	586	84	84	87	252	27524	7166	1633	537
