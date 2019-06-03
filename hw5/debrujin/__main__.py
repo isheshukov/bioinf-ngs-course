@@ -6,6 +6,8 @@ from more_itertools import windowed
 import dataclasses
 import os 
 from tqdm import tqdm
+from collections import Counter
+from numpy import mean
 
 def graph2fasta(G, name):
     with open(name, "w") as file:
@@ -13,10 +15,11 @@ def graph2fasta(G, name):
             file.write(f"> {e[0]} -> {e[1]}\n")
             file.write(f"{e[2]['seq']}\n")
 
-def seq2kmers(seq, k=3):
+def seq2kmers(seq, k):
     return map(lambda x: ''.join(x), windowed(seq, k))
 
-def fasta2graph(fasta, k=3):
+def fasta2graph(fasta, k):
+    coverage = Counter() 
     G = nx.MultiDiGraph()
 
     seqs = []
@@ -29,13 +32,14 @@ def fasta2graph(fasta, k=3):
         for kmer in seq2kmers(seq, k):
             G.add_node(kmer[:-1])
             G.add_node(kmer[1:])
+            coverage[kmer] += 1
 
     for l, r in tqdm(product(G, repeat=2), desc="Creating edges"):
         if l[1:] == r[:-1]:
             G.add_edge(l, r, seq=l+r[-1])
 
 
-    return G
+    return G, coverage
 
 def compress_graph(G, k):
     nodes_to_remove = []
@@ -58,13 +62,26 @@ def compress_graph(G, k):
         else:
             num_of_nodes = len(G)
 
+def compute_mean_coverage(G, coverage, k):
+    def seq_to_mean(seq, k):
+        return mean(list(map(lambda x: coverage[''.join(x)], windowed(seq, k))))
+
+    mean_dict = {}
+
+    for e in tqdm(G.edges(data=True, keys=True), desc="Computing mean coverage"):
+        mean_dict[(e[0],e[1],e[2])] = {'mean cov': seq_to_mean(e[3]['seq'], k)}
+    
+    nx.set_edge_attributes(G, mean_dict, 'mean cov')
+
 def main(fasta, k=3):
     """Runs de Brujin graph building algorithm """
 
     basename = os.path.splitext(fasta)[0]
 
-    dbg = fasta2graph(fasta, k)
+    dbg, coverage = fasta2graph(fasta, k)
     compress_graph(dbg, k)
+    compute_mean_coverage(dbg, coverage, k)
+
     dbg = nx.relabel.convert_node_labels_to_integers(dbg)
     #dbg = compress_graph(dbg)
 

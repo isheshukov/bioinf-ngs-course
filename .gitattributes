@@ -1,8 +1,11 @@
 *.fasta filter=lfs diff=lfs merge=lfs -text
+diff filter=lfs diff=lfs merge=lfs -text
+.fastq filter=lfs diff=lfs merge=lfs -text
+.bwt filter=lfs diff=lfs merge=lfs -text
+hw4/work/diff filter=lfs diff=lfs merge=lfs -text
 *.fastq filter=lfs diff=lfs merge=lfs -text
 *.qcts filter=lfs diff=lfs merge=lfs -text
 *.depth filter=lfs diff=lfs merge=lfs -text
 *.fa filter=lfs diff=lfs merge=lfs -text
 *.bwt filter=lfs diff=lfs merge=lfs -text
-hw4/work/diff filter=lfs diff=lfs merge=lfs -text
 hw2/work/grep filter=lfs diff=lfs merge=lfs -text
