@@ -1,0 +1,38 @@
+digraph "" {
+	0 -> 2 [key=0,
+	label="mean_cov: 5.96
+ length: 5115",
+	length=5115,
+	mean_cov=5.9618652440229205,
+	seq="['']"];
+1 -> 6 [key=0,
+label="mean_cov: 5.26
+ length: 25300",
+length=25300,
+mean_cov=5.261467163114949,
+seq="['']"];
+2 -> 5 [key=0,
+label="mean_cov: 4.27
+ length: 15730",
+length=15730,
+mean_cov=4.270158203623374,
+seq="['']"];
+3 -> 1 [key=0,
+label="mean_cov: 5.96
+ length: 5115",
+length=5115,
+mean_cov=5.9618652440229205,
+seq="['']"];
+4 -> 3 [key=0,
+label="mean_cov: 4.27
+ length: 15730",
+length=15730,
+mean_cov=4.270158203623374,
+seq="['']"];
+7 -> 0 [key=0,
+label="mean_cov: 5.26
+ length: 25300",
+length=25300,
+mean_cov=5.261467163114949,
+seq="['']"];
+}

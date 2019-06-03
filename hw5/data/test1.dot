@@ -1,14 +1,206 @@
 digraph "" {
 	0 -> 1 [key=0,
-	label="mean_cov: 1.0
- length: 55",
-	length=55,
-	mean_cov=1.0,
+	label="mean_cov: 0.238
+ length: 1100",
+	length=1100,
+	mean_cov=0.2383134738771769,
 	seq="['']"];
-2 -> 3 [key=0,
-label="mean_cov: 1.0
- length: 55",
-length=55,
-mean_cov=1.0,
+1 -> 2 [key=0,
+label="mean_cov: 0.235
+ length: 1111",
+length=1111,
+mean_cov=0.23502722323049002,
+seq="['']"];
+1 -> 37 [key=0,
+label="mean_cov: 0.238
+ length: 1100",
+length=1100,
+mean_cov=0.2383134738771769,
+seq="['']"];
+2 -> 16 [key=0,
+label="mean_cov: 0.227
+ length: 1606",
+length=1606,
+mean_cov=0.2266750156543519,
+seq="['']"];
+3 -> 4 [key=0,
+label="mean_cov: 0.375
+ length: 33",
+length=33,
+mean_cov=0.375,
+seq="['']"];
+4 -> 5 [key=0,
+label="mean_cov: 0.615
+ length: 22",
+length=22,
+mean_cov=0.6153846153846154,
+seq="['']"];
+5 -> 6 [key=0,
+label="mean_cov: 0.298
+ length: 66",
+length=66,
+mean_cov=0.2982456140350877,
+seq="['']"];
+5 -> 8 [key=0,
+label="mean_cov: 0.292
+ length: 187",
+length=187,
+mean_cov=0.29213483146067415,
+seq="['']"];
+7 -> 4 [key=0,
+label="mean_cov: 0.256
+ length: 99",
+length=99,
+mean_cov=0.25555555555555554,
+seq="['']"];
+9 -> 10 [key=0,
+label="mean_cov: 0.287
+ length: 319",
+length=319,
+mean_cov=0.2870967741935484,
+seq="['']"];
+10 -> 11 [key=0,
+label="mean_cov: 0.571
+ length: 44",
+length=44,
+mean_cov=0.5714285714285714,
+seq="['']"];
+12 -> 13 [key=0,
+label="mean_cov: 0.269
+ length: 154",
+length=154,
+mean_cov=0.2689655172413793,
+seq="['']"];
+12 -> 32 [key=0,
+label="mean_cov: 0.292
+ length: 187",
+length=187,
+mean_cov=0.29213483146067415,
+seq="['']"];
+14 -> 15 [key=0,
+label="mean_cov: 0.571
+ length: 44",
+length=44,
+mean_cov=0.5714285714285714,
+seq="['']"];
+15 -> 16 [key=0,
+label="mean_cov: 0.253
+ length: 88",
+length=88,
+mean_cov=0.25316455696202533,
+seq="['']"];
+15 -> 31 [key=0,
+label="mean_cov: 0.287
+ length: 319",
+length=319,
+mean_cov=0.2870967741935484,
+seq="['']"];
+16 -> 17 [key=0,
+label="mean_cov: 0.219
+ length: 462",
+length=462,
+mean_cov=0.2185430463576159,
+seq="['']"];
+16 -> 26 [key=0,
+label="mean_cov: 0.225
+ length: 2596",
+length=2596,
+mean_cov=0.22535755701584848,
+seq="['']"];
+18 -> 19 [key=0,
+label="mean_cov: 0.26
+ length: 913",
+length=913,
+mean_cov=0.25995575221238937,
+seq="['']"];
+19 -> 20 [key=0,
+label="mean_cov: 0.247
+ length: 1287",
+length=1287,
+mean_cov=0.24726134585289514,
+seq="['']"];
+19 -> 28 [key=0,
+label="mean_cov: 0.26
+ length: 913",
+length=913,
+mean_cov=0.25995575221238937,
+seq="['']"];
+21 -> 22 [key=0,
+label="mean_cov: 0.225
+ length: 2596",
+length=2596,
+mean_cov=0.22535755701584848,
+seq="['']"];
+22 -> 10 [key=0,
+label="mean_cov: 0.253
+ length: 88",
+length=88,
+mean_cov=0.25316455696202533,
+seq="['']"];
+22 -> 23 [key=0,
+label="mean_cov: 0.227
+ length: 1606",
+length=1606,
+mean_cov=0.2266750156543519,
+seq="['']"];
+23 -> 1 [key=0,
+label="mean_cov: 0.235
+ length: 1111",
+length=1111,
+mean_cov=0.23502722323049002,
+seq="['']"];
+23 -> 24 [key=0,
+label="mean_cov: 0.242
+ length: 649",
+length=649,
+mean_cov=0.2421875,
+seq="['']"];
+25 -> 2 [key=0,
+label="mean_cov: 0.242
+ length: 649",
+length=649,
+mean_cov=0.2421875,
+seq="['']"];
+27 -> 19 [key=0,
+label="mean_cov: 0.247
+ length: 1287",
+length=1287,
+mean_cov=0.24726134585289514,
+seq="['']"];
+29 -> 22 [key=0,
+label="mean_cov: 0.219
+ length: 462",
+length=462,
+mean_cov=0.2185430463576159,
+seq="['']"];
+30 -> 8 [key=0,
+label="mean_cov: 0.269
+ length: 154",
+length=154,
+mean_cov=0.2689655172413793,
+seq="['']"];
+32 -> 33 [key=0,
+label="mean_cov: 0.615
+ length: 22",
+length=22,
+mean_cov=0.6153846153846154,
+seq="['']"];
+33 -> 34 [key=0,
+label="mean_cov: 0.256
+ length: 99",
+length=99,
+mean_cov=0.25555555555555554,
+seq="['']"];
+33 -> 36 [key=0,
+label="mean_cov: 0.375
+ length: 33",
+length=33,
+mean_cov=0.375,
+seq="['']"];
+35 -> 32 [key=0,
+label="mean_cov: 0.298
+ length: 66",
+length=66,
+mean_cov=0.2982456140350877,
 seq="['']"];
 }
