@@ -1,0 +1,26 @@
+digraph "" {
+	AC -> CG [key=0,
+	label="mean_cov: 1.5
+ length: 3",
+	length=3,
+	mean_cov=1.5,
+	seq="['']"];
+CG -> GT [key=0,
+label="mean_cov: 2.0
+ length: 3",
+length=3,
+mean_cov=2.0,
+seq="['']"];
+GT -> CG [key=0,
+label="mean_cov: 1.33
+ length: 7",
+length=7,
+mean_cov=1.3333333333333333,
+seq="['']"];
+GT -> AA [key=0,
+label="mean_cov: 1.25
+ length: 5",
+length=5,
+mean_cov=1.25,
+seq="['']"];
+}

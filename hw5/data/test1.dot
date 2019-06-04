@@ -1,206 +1,1006 @@
 digraph "" {
-	0 -> 1 [key=0,
-	label="mean_cov: 0.238
- length: 1100",
-	length=1100,
-	mean_cov=0.2383134738771769,
-	seq="['']"];
-1 -> 2 [key=0,
-label="mean_cov: 0.235
- length: 1111",
-length=1111,
-mean_cov=0.23502722323049002,
-seq="['']"];
-1 -> 37 [key=0,
-label="mean_cov: 0.238
- length: 1100",
-length=1100,
-mean_cov=0.2383134738771769,
-seq="['']"];
-2 -> 16 [key=0,
-label="mean_cov: 0.227
- length: 1606",
-length=1606,
-mean_cov=0.2266750156543519,
-seq="['']"];
-3 -> 4 [key=0,
-label="mean_cov: 0.375
- length: 33",
-length=33,
-mean_cov=0.375,
-seq="['']"];
-4 -> 5 [key=0,
-label="mean_cov: 0.615
- length: 22",
-length=22,
-mean_cov=0.6153846153846154,
-seq="['']"];
-5 -> 6 [key=0,
-label="mean_cov: 0.298
- length: 66",
-length=66,
-mean_cov=0.2982456140350877,
-seq="['']"];
-5 -> 8 [key=0,
-label="mean_cov: 0.292
- length: 187",
-length=187,
-mean_cov=0.29213483146067415,
-seq="['']"];
-7 -> 4 [key=0,
-label="mean_cov: 0.256
- length: 99",
-length=99,
-mean_cov=0.25555555555555554,
-seq="['']"];
-9 -> 10 [key=0,
-label="mean_cov: 0.287
- length: 319",
-length=319,
-mean_cov=0.2870967741935484,
-seq="['']"];
-10 -> 11 [key=0,
-label="mean_cov: 0.571
- length: 44",
-length=44,
-mean_cov=0.5714285714285714,
-seq="['']"];
-12 -> 13 [key=0,
-label="mean_cov: 0.269
- length: 154",
-length=154,
-mean_cov=0.2689655172413793,
-seq="['']"];
-12 -> 32 [key=0,
-label="mean_cov: 0.292
- length: 187",
-length=187,
-mean_cov=0.29213483146067415,
-seq="['']"];
-14 -> 15 [key=0,
-label="mean_cov: 0.571
- length: 44",
-length=44,
-mean_cov=0.5714285714285714,
-seq="['']"];
-15 -> 16 [key=0,
-label="mean_cov: 0.253
- length: 88",
-length=88,
-mean_cov=0.25316455696202533,
-seq="['']"];
-15 -> 31 [key=0,
-label="mean_cov: 0.287
- length: 319",
-length=319,
-mean_cov=0.2870967741935484,
-seq="['']"];
-16 -> 17 [key=0,
-label="mean_cov: 0.219
- length: 462",
-length=462,
-mean_cov=0.2185430463576159,
-seq="['']"];
-16 -> 26 [key=0,
-label="mean_cov: 0.225
- length: 2596",
-length=2596,
-mean_cov=0.22535755701584848,
-seq="['']"];
-18 -> 19 [key=0,
-label="mean_cov: 0.26
- length: 913",
-length=913,
-mean_cov=0.25995575221238937,
-seq="['']"];
-19 -> 20 [key=0,
-label="mean_cov: 0.247
- length: 1287",
-length=1287,
-mean_cov=0.24726134585289514,
-seq="['']"];
-19 -> 28 [key=0,
-label="mean_cov: 0.26
- length: 913",
-length=913,
-mean_cov=0.25995575221238937,
-seq="['']"];
-21 -> 22 [key=0,
-label="mean_cov: 0.225
- length: 2596",
-length=2596,
-mean_cov=0.22535755701584848,
-seq="['']"];
-22 -> 10 [key=0,
-label="mean_cov: 0.253
- length: 88",
-length=88,
-mean_cov=0.25316455696202533,
-seq="['']"];
-22 -> 23 [key=0,
-label="mean_cov: 0.227
- length: 1606",
-length=1606,
-mean_cov=0.2266750156543519,
-seq="['']"];
-23 -> 1 [key=0,
-label="mean_cov: 0.235
- length: 1111",
-length=1111,
-mean_cov=0.23502722323049002,
-seq="['']"];
-23 -> 24 [key=0,
-label="mean_cov: 0.242
- length: 649",
-length=649,
-mean_cov=0.2421875,
-seq="['']"];
-25 -> 2 [key=0,
-label="mean_cov: 0.242
- length: 649",
-length=649,
-mean_cov=0.2421875,
-seq="['']"];
-27 -> 19 [key=0,
-label="mean_cov: 0.247
- length: 1287",
-length=1287,
-mean_cov=0.24726134585289514,
-seq="['']"];
-29 -> 22 [key=0,
-label="mean_cov: 0.219
- length: 462",
-length=462,
-mean_cov=0.2185430463576159,
-seq="['']"];
-30 -> 8 [key=0,
-label="mean_cov: 0.269
- length: 154",
-length=154,
-mean_cov=0.2689655172413793,
-seq="['']"];
-32 -> 33 [key=0,
-label="mean_cov: 0.615
- length: 22",
-length=22,
-mean_cov=0.6153846153846154,
-seq="['']"];
-33 -> 34 [key=0,
-label="mean_cov: 0.256
- length: 99",
-length=99,
-mean_cov=0.25555555555555554,
-seq="['']"];
-33 -> 36 [key=0,
-label="mean_cov: 0.375
- length: 33",
-length=33,
-mean_cov=0.375,
-seq="['']"];
-35 -> 32 [key=0,
-label="mean_cov: 0.298
- length: 66",
-length=66,
-mean_cov=0.2982456140350877,
-seq="['']"];
+	AGC -> GCT	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	AGC -> GCA	 [label="mean_cov: 40.0
+ length: 4",
+		length=4,
+		mean_cov=40.0];
+	AGC -> GCC	 [label="mean_cov: 38.5
+ length: 4",
+		length=4,
+		mean_cov=38.5];
+	AGC -> GCG	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	GCT -> CTT	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	GCT -> CTG	 [label="mean_cov: 39.0
+ length: 4",
+		length=4,
+		mean_cov=39.0];
+	GCT -> CTA	 [label="mean_cov: 20.5
+ length: 4",
+		length=4,
+		mean_cov=20.5];
+	CTT -> TTT	 [label="mean_cov: 41.5
+ length: 4",
+		length=4,
+		mean_cov=41.5];
+	CTT -> TTC	 [label="mean_cov: 23.5
+ length: 4",
+		length=4,
+		mean_cov=23.5];
+	CTT -> TTA	 [label="mean_cov: 23.5
+ length: 4",
+		length=4,
+		mean_cov=23.5];
+	CTT -> TTG	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	TTT -> TTT	 [label="mean_cov: 66.0
+ length: 4",
+		length=4,
+		mean_cov=66.0];
+	TTT -> TTC	 [label="mean_cov: 48.0
+ length: 4",
+		length=4,
+		mean_cov=48.0];
+	TTT -> TTA	 [label="mean_cov: 48.0
+ length: 4",
+		length=4,
+		mean_cov=48.0];
+	TTT -> TTG	 [label="mean_cov: 48.5
+ length: 4",
+		length=4,
+		mean_cov=48.5];
+	TTC -> TCA	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	TTC -> TCT	 [label="mean_cov: 24.5
+ length: 4",
+		length=4,
+		mean_cov=24.5];
+	TTC -> TCC	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	TTC -> TCG	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	TCA -> CAT	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	TCA -> CAA	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	TCA -> CAG	 [label="mean_cov: 39.0
+ length: 4",
+		length=4,
+		mean_cov=39.0];
+	TCA -> CAC	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	CAT -> ATT	 [label="mean_cov: 37.0
+ length: 4",
+		length=4,
+		mean_cov=37.0];
+	CAT -> ATA	 [label="mean_cov: 28.5
+ length: 4",
+		length=4,
+		mean_cov=28.5];
+	CAT -> ATG	 [label="mean_cov: 34.0
+ length: 4",
+		length=4,
+		mean_cov=34.0];
+	CAT -> ATC	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	ATT -> TTT	 [label="mean_cov: 53.0
+ length: 4",
+		length=4,
+		mean_cov=53.0];
+	ATT -> TTC	 [label="mean_cov: 35.0
+ length: 4",
+		length=4,
+		mean_cov=35.0];
+	ATT -> TTA	 [label="mean_cov: 35.0
+ length: 4",
+		length=4,
+		mean_cov=35.0];
+	ATT -> TTG	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	TCT -> CTT	 [label="mean_cov: 18.0
+ length: 4",
+		length=4,
+		mean_cov=18.0];
+	TCT -> CTG	 [label="mean_cov: 34.0
+ length: 4",
+		length=4,
+		mean_cov=34.0];
+	TCT -> CTC	 [label="mean_cov: 16.0
+ length: 4",
+		length=4,
+		mean_cov=16.0];
+	TCT -> CTA	 [label="mean_cov: 15.5
+ length: 4",
+		length=4,
+		mean_cov=15.5];
+	CTG -> TGA	 [label="mean_cov: 39.0
+ length: 4",
+		length=4,
+		mean_cov=39.0];
+	CTG -> TGC	 [label="mean_cov: 50.0
+ length: 4",
+		length=4,
+		mean_cov=50.0];
+	CTG -> TGT	 [label="mean_cov: 38.0
+ length: 4",
+		length=4,
+		mean_cov=38.0];
+	CTG -> TGG	 [label="mean_cov: 46.0
+ length: 4",
+		length=4,
+		mean_cov=46.0];
+	TGA -> GAC	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	TGA -> GAT	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	TGA -> GAG	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	TGA -> GAA	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	GAC -> ACT	 [label="mean_cov: 22.5
+ length: 4",
+		length=4,
+		mean_cov=22.5];
+	GAC -> ACG	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	GAC -> ACC	 [label="mean_cov: 31.0
+ length: 4",
+		length=4,
+		mean_cov=31.0];
+	GAC -> ACA	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	ACT -> CTT	 [label="mean_cov: 20.5
+ length: 4",
+		length=4,
+		mean_cov=20.5];
+	ACT -> CTG	 [label="mean_cov: 36.5
+ length: 4",
+		length=4,
+		mean_cov=36.5];
+	ACT -> CTC	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	ACT -> CTA	 [label="mean_cov: 18.0
+ length: 4",
+		length=4,
+		mean_cov=18.0];
+	TGC -> GCT	 [label="mean_cov: 40.0
+ length: 4",
+		length=4,
+		mean_cov=40.0];
+	TGC -> GCA	 [label="mean_cov: 51.0
+ length: 4",
+		length=4,
+		mean_cov=51.0];
+	TGC -> GCC	 [label="mean_cov: 49.5
+ length: 4",
+		length=4,
+		mean_cov=49.5];
+	TGC -> GCG	 [label="mean_cov: 46.5
+ length: 4",
+		length=4,
+		mean_cov=46.5];
+	GCA -> CAT	 [label="mean_cov: 42.5
+ length: 4",
+		length=4,
+		mean_cov=42.5];
+	GCA -> CAA	 [label="mean_cov: 41.0
+ length: 4",
+		length=4,
+		mean_cov=41.0];
+	GCA -> CAG	 [label="mean_cov: 50.0
+ length: 4",
+		length=4,
+		mean_cov=50.0];
+	GCA -> CAC	 [label="mean_cov: 43.5
+ length: 4",
+		length=4,
+		mean_cov=43.5];
+	CAA -> AAC	 [label="mean_cov: 33.0
+ length: 4",
+		length=4,
+		mean_cov=33.0];
+	CAA -> AAT	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	CAA -> AAA	 [label="mean_cov: 48.5
+ length: 4",
+		length=4,
+		mean_cov=48.5];
+	CAA -> AAG	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	AAC -> ACT	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	AAC -> ACG	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	AAC -> ACC	 [label="mean_cov: 38.0
+ length: 4",
+		length=4,
+		mean_cov=38.0];
+	AAC -> ACA	 [label="mean_cov: 31.0
+ length: 4",
+		length=4,
+		mean_cov=31.0];
+	ACG -> CGG	 [label="mean_cov: 33.5
+ length: 4",
+		length=4,
+		mean_cov=33.5];
+	ACG -> CGT	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	ACG -> CGC	 [label="mean_cov: 33.5
+ length: 4",
+		length=4,
+		mean_cov=33.5];
+	ACG -> CGA	 [label="mean_cov: 27.0
+ length: 4",
+		length=4,
+		mean_cov=27.0];
+	CGG -> GGG	 [label="mean_cov: 32.0
+ length: 4",
+		length=4,
+		mean_cov=32.0];
+	CGG -> GGC	 [label="mean_cov: 45.0
+ length: 4",
+		length=4,
+		mean_cov=45.0];
+	CGG -> GGA	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	CGG -> GGT	 [label="mean_cov: 41.5
+ length: 4",
+		length=4,
+		mean_cov=41.5];
+	GGG -> GGG	 [label="mean_cov: 22.0
+ length: 4",
+		length=4,
+		mean_cov=22.0];
+	GGG -> GGC	 [label="mean_cov: 35.0
+ length: 4",
+		length=4,
+		mean_cov=35.0];
+	GGG -> GGA	 [label="mean_cov: 19.0
+ length: 4",
+		length=4,
+		mean_cov=19.0];
+	GGG -> GGT	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	GGC -> GCT	 [label="mean_cov: 38.5
+ length: 4",
+		length=4,
+		mean_cov=38.5];
+	GGC -> GCA	 [label="mean_cov: 49.5
+ length: 4",
+		length=4,
+		mean_cov=49.5];
+	GGC -> GCC	 [label="mean_cov: 48.0
+ length: 4",
+		length=4,
+		mean_cov=48.0];
+	GGC -> GCG	 [label="mean_cov: 45.0
+ length: 4",
+		length=4,
+		mean_cov=45.0];
+	AAT -> ATT	 [label="mean_cov: 40.0
+ length: 4",
+		length=4,
+		mean_cov=40.0];
+	AAT -> ATA	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	AAT -> ATG	 [label="mean_cov: 37.0
+ length: 4",
+		length=4,
+		mean_cov=37.0];
+	AAT -> ATC	 [label="mean_cov: 34.5
+ length: 4",
+		length=4,
+		mean_cov=34.5];
+	ATA -> TAT	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	ATA -> TAA	 [label="mean_cov: 26.5
+ length: 4",
+		length=4,
+		mean_cov=26.5];
+	ATA -> TAG	 [label="mean_cov: 17.5
+ length: 4",
+		length=4,
+		mean_cov=17.5];
+	ATA -> TAC	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	TAT -> ATT	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	TAT -> ATA	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	TAT -> ATG	 [label="mean_cov: 28.5
+ length: 4",
+		length=4,
+		mean_cov=28.5];
+	TAT -> ATC	 [label="mean_cov: 26.0
+ length: 4",
+		length=4,
+		mean_cov=26.0];
+	ATG -> TGA	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	ATG -> TGC	 [label="mean_cov: 42.5
+ length: 4",
+		length=4,
+		mean_cov=42.5];
+	ATG -> TGT	 [label="mean_cov: 30.5
+ length: 4",
+		length=4,
+		mean_cov=30.5];
+	ATG -> TGG	 [label="mean_cov: 38.5
+ length: 4",
+		length=4,
+		mean_cov=38.5];
+	TGT -> GTC	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	TGT -> GTG	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	TGT -> GTT	 [label="mean_cov: 31.0
+ length: 4",
+		length=4,
+		mean_cov=31.0];
+	TGT -> GTA	 [label="mean_cov: 26.0
+ length: 4",
+		length=4,
+		mean_cov=26.0];
+	GTC -> TCA	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	GTC -> TCT	 [label="mean_cov: 20.0
+ length: 4",
+		length=4,
+		mean_cov=20.0];
+	GTC -> TCC	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	GTC -> TCG	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	CTC -> TCA	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	CTC -> TCT	 [label="mean_cov: 16.0
+ length: 4",
+		length=4,
+		mean_cov=16.0];
+	CTC -> TCG	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	GTG -> TGA	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	GTG -> TGC	 [label="mean_cov: 43.5
+ length: 4",
+		length=4,
+		mean_cov=43.5];
+	GTG -> TGT	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	GTG -> TGG	 [label="mean_cov: 39.5
+ length: 4",
+		length=4,
+		mean_cov=39.5];
+	TGG -> GGG	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	TGG -> GGC	 [label="mean_cov: 45.5
+ length: 4",
+		length=4,
+		mean_cov=45.5];
+	TGG -> GGA	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	TGG -> GGT	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	GGA -> GAC	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	GGA -> GAT	 [label="mean_cov: 22.5
+ length: 4",
+		length=4,
+		mean_cov=22.5];
+	GGA -> GAA	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	GAT -> ATT	 [label="mean_cov: 34.5
+ length: 4",
+		length=4,
+		mean_cov=34.5];
+	GAT -> ATA	 [label="mean_cov: 26.0
+ length: 4",
+		length=4,
+		mean_cov=26.0];
+	GAT -> ATG	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	GAT -> ATC	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	TTA -> TAT	 [label="mean_cov: 26.5
+ length: 4",
+		length=4,
+		mean_cov=26.5];
+	TTA -> TAA	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	TTA -> TAG	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	TTA -> TAC	 [label="mean_cov: 27.5
+ length: 4",
+		length=4,
+		mean_cov=27.5];
+	TAA -> AAC	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	TAA -> AAT	 [label="mean_cov: 35.0
+ length: 4",
+		length=4,
+		mean_cov=35.0];
+	TAA -> AAA	 [label="mean_cov: 48.0
+ length: 4",
+		length=4,
+		mean_cov=48.0];
+	TAA -> AAG	 [label="mean_cov: 23.5
+ length: 4",
+		length=4,
+		mean_cov=23.5];
+	AAA -> AAC	 [label="mean_cov: 50.5
+ length: 4",
+		length=4,
+		mean_cov=50.5];
+	AAA -> AAT	 [label="mean_cov: 53.0
+ length: 4",
+		length=4,
+		mean_cov=53.0];
+	AAA -> AAA	 [label="mean_cov: 66.0
+ length: 4",
+		length=4,
+		mean_cov=66.0];
+	AAA -> AAG	 [label="mean_cov: 41.5
+ length: 4",
+		length=4,
+		mean_cov=41.5];
+	AAG -> AGC	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	AAG -> AGA	 [label="mean_cov: 18.0
+ length: 4",
+		length=4,
+		mean_cov=18.0];
+	AAG -> AGT	 [label="mean_cov: 20.5
+ length: 4",
+		length=4,
+		mean_cov=20.5];
+	AAG -> AGG	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	AGA -> GAC	 [label="mean_cov: 20.0
+ length: 4",
+		length=4,
+		mean_cov=20.0];
+	AGA -> GAT	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	AGA -> GAG	 [label="mean_cov: 16.0
+ length: 4",
+		length=4,
+		mean_cov=16.0];
+	AGA -> GAA	 [label="mean_cov: 24.5
+ length: 4",
+		length=4,
+		mean_cov=24.5];
+	GAG -> AGA	 [label="mean_cov: 16.0
+ length: 4",
+		length=4,
+		mean_cov=16.0];
+	GAG -> AGT	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	GAG -> AGG	 [label="mean_cov: 16.5
+ length: 4",
+		length=4,
+		mean_cov=16.5];
+	AGT -> GTC	 [label="mean_cov: 22.5
+ length: 4",
+		length=4,
+		mean_cov=22.5];
+	AGT -> GTG	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	AGT -> GTT	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	AGT -> GTA	 [label="mean_cov: 24.5
+ length: 4",
+		length=4,
+		mean_cov=24.5];
+	TAG -> AGC	 [label="mean_cov: 20.5
+ length: 4",
+		length=4,
+		mean_cov=20.5];
+	TAG -> AGA	 [label="mean_cov: 15.5
+ length: 4",
+		length=4,
+		mean_cov=15.5];
+	TAG -> AGT	 [label="mean_cov: 18.0
+ length: 4",
+		length=4,
+		mean_cov=18.0];
+	TAG -> AGG	 [label="mean_cov: 16.0
+ length: 4",
+		length=4,
+		mean_cov=16.0];
+	CAG -> AGC	 [label="mean_cov: 39.0
+ length: 4",
+		length=4,
+		mean_cov=39.0];
+	CAG -> AGA	 [label="mean_cov: 34.0
+ length: 4",
+		length=4,
+		mean_cov=34.0];
+	CAG -> AGT	 [label="mean_cov: 36.5
+ length: 4",
+		length=4,
+		mean_cov=36.5];
+	CAG -> AGG	 [label="mean_cov: 34.5
+ length: 4",
+		length=4,
+		mean_cov=34.5];
+	GAA -> AAC	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	GAA -> AAT	 [label="mean_cov: 35.0
+ length: 4",
+		length=4,
+		mean_cov=35.0];
+	GAA -> AAA	 [label="mean_cov: 48.0
+ length: 4",
+		length=4,
+		mean_cov=48.0];
+	GAA -> AAG	 [label="mean_cov: 23.5
+ length: 4",
+		length=4,
+		mean_cov=23.5];
+	GGT -> GTC	 [label="mean_cov: 31.0
+ length: 4",
+		length=4,
+		mean_cov=31.0];
+	GGT -> GTG	 [label="mean_cov: 38.5
+ length: 4",
+		length=4,
+		mean_cov=38.5];
+	GGT -> GTT	 [label="mean_cov: 38.0
+ length: 4",
+		length=4,
+		mean_cov=38.0];
+	GGT -> GTA	 [label="mean_cov: 33.0
+ length: 4",
+		length=4,
+		mean_cov=33.0];
+	GTT -> TTT	 [label="mean_cov: 50.5
+ length: 4",
+		length=4,
+		mean_cov=50.5];
+	GTT -> TTC	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	GTT -> TTA	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	GTT -> TTG	 [label="mean_cov: 33.0
+ length: 4",
+		length=4,
+		mean_cov=33.0];
+	TAC -> ACT	 [label="mean_cov: 24.5
+ length: 4",
+		length=4,
+		mean_cov=24.5];
+	TAC -> ACG	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	TAC -> ACC	 [label="mean_cov: 33.0
+ length: 4",
+		length=4,
+		mean_cov=33.0];
+	TAC -> ACA	 [label="mean_cov: 26.0
+ length: 4",
+		length=4,
+		mean_cov=26.0];
+	ACC -> CCT	 [label="mean_cov: 30.5
+ length: 4",
+		length=4,
+		mean_cov=30.5];
+	ACC -> CCG	 [label="mean_cov: 41.5
+ length: 4",
+		length=4,
+		mean_cov=41.5];
+	ACC -> CCA	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	ACC -> CCC	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	CCT -> CTT	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	CCT -> CTG	 [label="mean_cov: 34.5
+ length: 4",
+		length=4,
+		mean_cov=34.5];
+	CCT -> CTC	 [label="mean_cov: 16.5
+ length: 4",
+		length=4,
+		mean_cov=16.5];
+	CCT -> CTA	 [label="mean_cov: 16.0
+ length: 4",
+		length=4,
+		mean_cov=16.0];
+	GCC -> CCT	 [label="mean_cov: 34.0
+ length: 4",
+		length=4,
+		mean_cov=34.0];
+	GCC -> CCG	 [label="mean_cov: 45.0
+ length: 4",
+		length=4,
+		mean_cov=45.0];
+	GCC -> CCA	 [label="mean_cov: 45.5
+ length: 4",
+		length=4,
+		mean_cov=45.5];
+	GCC -> CCC	 [label="mean_cov: 35.0
+ length: 4",
+		length=4,
+		mean_cov=35.0];
+	CCG -> CGG	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	CCG -> CGT	 [label="mean_cov: 33.5
+ length: 4",
+		length=4,
+		mean_cov=33.5];
+	CCG -> CGC	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	CCG -> CGA	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	CGT -> GTC	 [label="mean_cov: 23.0
+ length: 4",
+		length=4,
+		mean_cov=23.0];
+	CGT -> GTG	 [label="mean_cov: 30.5
+ length: 4",
+		length=4,
+		mean_cov=30.5];
+	CGT -> GTT	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	CGT -> GTA	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	GTA -> TAT	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	GTA -> TAA	 [label="mean_cov: 27.5
+ length: 4",
+		length=4,
+		mean_cov=27.5];
+	GTA -> TAG	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	GTA -> TAC	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	TTG -> TGA	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	TTG -> TGC	 [label="mean_cov: 41.0
+ length: 4",
+		length=4,
+		mean_cov=41.0];
+	TTG -> TGT	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	TTG -> TGG	 [label="mean_cov: 37.0
+ length: 4",
+		length=4,
+		mean_cov=37.0];
+	AGG -> GGG	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	AGG -> GGC	 [label="mean_cov: 34.0
+ length: 4",
+		length=4,
+		mean_cov=34.0];
+	AGG -> GGA	 [label="mean_cov: 18.0
+ length: 4",
+		length=4,
+		mean_cov=18.0];
+	AGG -> GGT	 [label="mean_cov: 30.5
+ length: 4",
+		length=4,
+		mean_cov=30.5];
+	CAC -> ACT	 [label="mean_cov: 30.0
+ length: 4",
+		length=4,
+		mean_cov=30.0];
+	CAC -> ACG	 [label="mean_cov: 30.5
+ length: 4",
+		length=4,
+		mean_cov=30.5];
+	CAC -> ACC	 [label="mean_cov: 38.5
+ length: 4",
+		length=4,
+		mean_cov=38.5];
+	CAC -> ACA	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	CTA -> TAT	 [label="mean_cov: 17.5
+ length: 4",
+		length=4,
+		mean_cov=17.5];
+	CTA -> TAA	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	CTA -> TAC	 [label="mean_cov: 18.5
+ length: 4",
+		length=4,
+		mean_cov=18.5];
+	CCA -> CAT	 [label="mean_cov: 38.5
+ length: 4",
+		length=4,
+		mean_cov=38.5];
+	CCA -> CAA	 [label="mean_cov: 37.0
+ length: 4",
+		length=4,
+		mean_cov=37.0];
+	CCA -> CAG	 [label="mean_cov: 46.0
+ length: 4",
+		length=4,
+		mean_cov=46.0];
+	CCA -> CAC	 [label="mean_cov: 39.5
+ length: 4",
+		length=4,
+		mean_cov=39.5];
+	GCG -> CGG	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	GCG -> CGT	 [label="mean_cov: 33.5
+ length: 4",
+		length=4,
+		mean_cov=33.5];
+	GCG -> CGC	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	GCG -> CGA	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	CGC -> GCT	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	CGC -> GCA	 [label="mean_cov: 46.5
+ length: 4",
+		length=4,
+		mean_cov=46.5];
+	CGC -> GCC	 [label="mean_cov: 45.0
+ length: 4",
+		length=4,
+		mean_cov=45.0];
+	CGC -> GCG	 [label="mean_cov: 42.0
+ length: 4",
+		length=4,
+		mean_cov=42.0];
+	ACA -> CAT	 [label="mean_cov: 30.5
+ length: 4",
+		length=4,
+		mean_cov=30.5];
+	ACA -> CAA	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	ACA -> CAG	 [label="mean_cov: 38.0
+ length: 4",
+		length=4,
+		mean_cov=38.0];
+	ACA -> CAC	 [label="mean_cov: 31.5
+ length: 4",
+		length=4,
+		mean_cov=31.5];
+	ATC -> TCA	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	ATC -> TCT	 [label="mean_cov: 24.0
+ length: 4",
+		length=4,
+		mean_cov=24.0];
+	ATC -> TCC	 [label="mean_cov: 22.5
+ length: 4",
+		length=4,
+		mean_cov=22.5];
+	ATC -> TCG	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	TCC -> CCT	 [label="mean_cov: 18.0
+ length: 4",
+		length=4,
+		mean_cov=18.0];
+	TCC -> CCG	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	TCC -> CCA	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
+	TCC -> CCC	 [label="mean_cov: 19.0
+ length: 4",
+		length=4,
+		mean_cov=19.0];
+	CCC -> CCT	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	CCC -> CCG	 [label="mean_cov: 32.0
+ length: 4",
+		length=4,
+		mean_cov=32.0];
+	CCC -> CCA	 [label="mean_cov: 32.5
+ length: 4",
+		length=4,
+		mean_cov=32.5];
+	CCC -> CCC	 [label="mean_cov: 22.0
+ length: 4",
+		length=4,
+		mean_cov=22.0];
+	TCG -> CGG	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	TCG -> CGT	 [label="mean_cov: 27.0
+ length: 4",
+		length=4,
+		mean_cov=27.0];
+	TCG -> CGC	 [label="mean_cov: 35.5
+ length: 4",
+		length=4,
+		mean_cov=35.5];
+	TCG -> CGA	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	CGA -> GAC	 [label="mean_cov: 25.0
+ length: 4",
+		length=4,
+		mean_cov=25.0];
+	CGA -> GAT	 [label="mean_cov: 29.0
+ length: 4",
+		length=4,
+		mean_cov=29.0];
+	CGA -> GAG	 [label="mean_cov: 21.0
+ length: 4",
+		length=4,
+		mean_cov=21.0];
+	CGA -> GAA	 [label="mean_cov: 29.5
+ length: 4",
+		length=4,
+		mean_cov=29.5];
 }
