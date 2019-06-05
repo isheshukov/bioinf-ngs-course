@@ -1,14 +1,10 @@
-digraph "" {
-	0 -> 1 [key=0,
-	label="mean_cov: 0.0496
- length: 52920",
-	length=52920,
-	mean_cov=0.04963492603942042,
-	seq="['']"];
-2 -> 3 [key=0,
-label="mean_cov: 0.0496
- length: 52920",
-length=52920,
-mean_cov=0.04963492603942042,
-seq="['']"];
+strict digraph "" {
+	0 -> 1	 [label="mean_cov: 9.45e+02
+ length: 945",
+		length=945,
+		mean_cov=1.0];
+	2 -> 3	 [label="mean_cov: 9.45e+02
+ length: 945",
+		length=945,
+		mean_cov=1.0];
 }

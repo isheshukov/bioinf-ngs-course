@@ -1,1058 +1,210 @@
 strict digraph "" {
-	0 -> 400	 [label="mean_cov: 2.59e+02
- length: 821",
-		length=821,
-		mean_cov=259.16427640156456];
-	1 -> 481	 [label="mean_cov: 1.98e+02
- length: 166",
-		length=166,
-		mean_cov=197.70535714285714];
-	13 -> 192	 [label="mean_cov: 60.6
- length: 117",
-		length=117,
-		mean_cov=60.57142857142857];
-	14 -> 172	 [label="mean_cov: 2.63e+02
- length: 1615",
-		length=1615,
-		mean_cov=263.08776425368353];
-	34 -> 381	 [label="mean_cov: 7.12e+02
- length: 370",
-		length=370,
-		mean_cov=712.1740506329114];
-	35 -> 176	 [label="mean_cov: 7.32e+02
- length: 506",
-		length=506,
-		mean_cov=732.1460176991151];
-	36 -> 78	 [label="mean_cov: 2.25e+02
- length: 383",
-		length=383,
-		mean_cov=224.68085106382978];
-	37 -> 243	 [label="mean_cov: 2.36e+02
- length: 532",
-		length=532,
-		mean_cov=235.69874476987448];
-	48 -> 226	 [label="mean_cov: 2.12e+02
- length: 1955",
-		length=1955,
-		mean_cov=212.25565491846396];
-	49 -> 369	 [label="mean_cov: 1.18e+02
- length: 112",
-		length=112,
-		mean_cov=118.29310344827586];
-	51 -> 146	 [label="mean_cov: 40.5
- length: 111",
-		length=111,
-		mean_cov=40.49122807017544];
-	52 -> 329	 [label="mean_cov: 40.5
- length: 122",
-		length=122,
-		mean_cov=40.529411764705884];
-	53 -> 139	 [label="mean_cov: 2.37e+02
- length: 117",
-		length=117,
-		mean_cov=236.52380952380952];
-	54 -> 311	 [label="mean_cov: 2.06e+02
- length: 186",
-		length=186,
-		mean_cov=206.31060606060606];
-	55 -> 472	 [label="mean_cov: 1.7e+02
- length: 167",
-		length=167,
-		mean_cov=170.23893805309734];
-	56 -> 187	 [label="mean_cov: 2.43e+02
- length: 554",
-		length=554,
-		mean_cov=242.504];
-	57 -> 315	 [label="mean_cov: 2.53e+02
- length: 606",
-		length=606,
-		mean_cov=252.5054347826087];
-	58 -> 202	 [label="mean_cov: 2.31e+02
- length: 411",
-		length=411,
-		mean_cov=230.70028011204482];
-	59 -> 262	 [label="mean_cov: 2e+02
- length: 716",
-		length=716,
-		mean_cov=199.67522658610272];
-	60 -> 234	 [label="mean_cov: 2.5e+02
- length: 1329",
-		length=1329,
-		mean_cov=249.75607843137254];
-	61 -> 124	 [label="mean_cov: 2.68e+02
- length: 912",
-		length=912,
-		mean_cov=268.4044289044289];
-	64 -> 123	 [label="mean_cov: 2.02e+02
- length: 772",
-		length=772,
-		mean_cov=201.81476323119776];
-	65 -> 351	 [label="mean_cov: 2.11e+02
- length: 465",
-		length=465,
-		mean_cov=211.1873479318735];
-	76 -> 510	 [label="mean_cov: 2.15e+02
- length: 276",
-		length=276,
-		mean_cov=214.53603603603602];
-	77 -> 330	 [label="mean_cov: 1.92e+02
- length: 390",
-		length=390,
-		mean_cov=192.0922619047619];
-	78 -> 264	 [label="mean_cov: 2.5e+02
- length: 567",
-		length=567,
-		mean_cov=250.07797270955166];
-	79 -> 37	 [label="mean_cov: 2.25e+02
- length: 383",
-		length=383,
-		mean_cov=224.68085106382978];
-	80 -> 399	 [label="mean_cov: 2.14e+02
- length: 916",
-		length=916,
-		mean_cov=214.368909512761];
-	82 -> 129	 [label="mean_cov: 1.72e+02
- length: 328",
-		length=328,
-		mean_cov=171.54379562043795];
-	83 -> 145	 [label="mean_cov: 2.9e+02
- length: 139",
-		length=139,
-		mean_cov=290.1058823529412];
-	84 -> 256	 [label="mean_cov: 2.36e+02
- length: 252",
-		length=252,
-		mean_cov=236.41919191919192];
-	85 -> 218	 [label="mean_cov: 2.02e+02
- length: 772",
-		length=772,
-		mean_cov=201.87047353760445];
-	86 -> 388	 [label="mean_cov: 1.4e+02
- length: 195",
-		length=195,
-		mean_cov=139.5886524822695];
-	87 -> 305	 [label="mean_cov: 1.32e+02
- length: 323",
-		length=323,
-		mean_cov=131.56133828996283];
-	96 -> 349	 [label="mean_cov: 2.63e+02
- length: 987",
-		length=987,
-		mean_cov=262.87352625937837];
-	98 -> 100	 [label="mean_cov: 5.37e+02
+	0 -> 3	 [label="mean_cov: 2.1e+06
+ length: 9086",
+		length=9086,
+		mean_cov=230.67389390270745];
+	2 -> 1	 [label="mean_cov: 2.1e+06
+ length: 9086",
+		length=9086,
+		mean_cov=230.67389390270745];
+	4 -> 48	 [label="mean_cov: 3.93e+05
+ length: 1953",
+		length=1953,
+		mean_cov=201.0916538658474];
+	6 -> 17	 [label="mean_cov: 4.54e+04
+ length: 273",
+		length=273,
+		mean_cov=166.4102564102564];
+	8 -> 50	 [label="mean_cov: 5.57e+05
+ length: 2375",
+		length=2375,
+		mean_cov=234.51242105263157];
+	11 -> 47	 [label="mean_cov: 5.47e+04
  length: 152",
 		length=152,
-		mean_cov=537.4489795918367];
-	99 -> 253	 [label="mean_cov: 3.68e+02
- length: 207",
-		length=207,
-		mean_cov=368.19607843137254];
-	100 -> 204	 [label="mean_cov: 6.09e+02
- length: 278",
-		length=278,
-		mean_cov=608.7767857142857];
-	101 -> 99	 [label="mean_cov: 5.37e+02
+		mean_cov=359.63157894736844];
+	12 -> 40	 [label="mean_cov: 1.32e+05
+ length: 223",
+		length=223,
+		mean_cov=593.0538116591928];
+	14 -> 22	 [label="mean_cov: 9.22e+05
+ length: 4011",
+		length=4011,
+		mean_cov=229.99227125405136];
+	16 -> 7	 [label="mean_cov: 4.54e+04
+ length: 273",
+		length=273,
+		mean_cov=166.4102564102564];
+	19 -> 24	 [label="mean_cov: 1.23e+06
+ length: 5657",
+		length=5657,
+		mean_cov=217.72441223263215];
+	21 -> 96	 [label="mean_cov: 5.76e+05
+ length: 2806",
+		length=2806,
+		mean_cov=205.09942979330006];
+	23 -> 18	 [label="mean_cov: 1.23e+06
+ length: 5657",
+		length=5657,
+		mean_cov=217.72441223263215];
+	25 -> 15	 [label="mean_cov: 9.22e+05
+ length: 4011",
+		length=4011,
+		mean_cov=229.99227125405136];
+	27 -> 29	 [label="mean_cov: 9.77e+05
+ length: 4789",
+		length=4789,
+		mean_cov=204.03549801628733];
+	28 -> 26	 [label="mean_cov: 9.77e+05
+ length: 4789",
+		length=4789,
+		mean_cov=204.03549801628733];
+	31 -> 94	 [label="mean_cov: 8.41e+05
+ length: 3723",
+		length=3723,
+		mean_cov=226.01799623959172];
+	33 -> 79	 [label="mean_cov: 5.42e+05
+ length: 766",
+		length=766,
+		mean_cov=707.4164490861618];
+	35 -> 68	 [label="mean_cov: 8.06e+05
+ length: 3948",
+		length=3948,
+		mean_cov=204.11322188449847];
+	37 -> 85	 [label="mean_cov: 1.19e+06
+ length: 5209",
+		length=5209,
+		mean_cov=227.5582645421386];
+	38 -> 70	 [label="mean_cov: 8.22e+05
+ length: 3660",
+		length=3660,
+		mean_cov=224.6568306010929];
+	41 -> 13	 [label="mean_cov: 1.32e+05
+ length: 223",
+		length=223,
+		mean_cov=593.0538116591928];
+	43 -> 66	 [label="mean_cov: 7.27e+05
+ length: 2955",
+		length=2955,
+		mean_cov=246.1560067681895];
+	44 -> 65	 [label="mean_cov: 1.75e+06
+ length: 8268",
+		length=8268,
+		mean_cov=212.05128205128204];
+	46 -> 10	 [label="mean_cov: 5.47e+04
  length: 152",
 		length=152,
-		mean_cov=537.4489795918367];
-	102 -> 326	 [label="mean_cov: 2.92e+02
- length: 226",
-		length=226,
-		mean_cov=291.5988372093023];
-	103 -> 288	 [label="mean_cov: 2.12e+02
- length: 1632",
-		length=1632,
-		mean_cov=212.3891001267427];
-	104 -> 206	 [label="mean_cov: 2.12e+02
- length: 587",
-		length=587,
-		mean_cov=211.66791744840526];
-	105 -> 353	 [label="mean_cov: 1.95e+02
- length: 3251",
-		length=3251,
-		mean_cov=195.25054738817641];
-	106 -> 302	 [label="mean_cov: 33.4
- length: 111",
-		length=111,
-		mean_cov=33.40350877192982];
-	108 -> 189	 [label="mean_cov: 2.02e+02
- length: 1078",
-		length=1078,
-		mean_cov=202.12109375];
-	109 -> 171	 [label="mean_cov: 2.17e+02
- length: 845",
-		length=845,
-		mean_cov=216.56890012642225];
-	118 -> 468	 [label="mean_cov: 1.92e+02
- length: 1009",
-		length=1009,
-		mean_cov=191.9235602094241];
-	119 -> 252	 [label="mean_cov: 1.46e+02
- length: 115",
-		length=115,
-		mean_cov=145.81967213114754];
-	120 -> 430	 [label="mean_cov: 2.22e+02
- length: 236",
-		length=236,
-		mean_cov=222.14285714285714];
-	121 -> 401	 [label="mean_cov: 2.32e+02
- length: 1749",
-		length=1749,
-		mean_cov=231.62182890855456];
-	122 -> 65	 [label="mean_cov: 2.02e+02
- length: 772",
-		length=772,
-		mean_cov=201.81476323119776];
-	123 -> 386	 [label="mean_cov: 2.12e+02
- length: 281",
-		length=281,
-		mean_cov=211.59911894273128];
-	124 -> 173	 [label="mean_cov: 2.37e+02
- length: 1205",
-		length=1205,
-		mean_cov=236.88705473501304];
-	125 -> 60	 [label="mean_cov: 2.68e+02
- length: 912",
-		length=912,
-		mean_cov=268.4044289044289];
-	128 -> 83	 [label="mean_cov: 1.72e+02
- length: 328",
-		length=328,
-		mean_cov=171.54379562043795];
-	137 -> 382	 [label="mean_cov: 2.05e+02
- length: 1612",
-		length=1612,
-		mean_cov=204.69062901155328];
-	138 -> 52	 [label="mean_cov: 2.37e+02
- length: 117",
-		length=117,
-		mean_cov=236.52380952380952];
-	139 -> 444	 [label="mean_cov: 2.18e+02
- length: 618",
-		length=618,
-		mean_cov=218.41489361702128];
-	141 -> 237	 [label="mean_cov: 2.34e+02
- length: 724",
-		length=724,
-		mean_cov=234.22089552238805];
-	143 -> 314	 [label="mean_cov: 2.4e+02
- length: 697",
-		length=697,
-		mean_cov=239.59409020217728];
-	144 -> 82	 [label="mean_cov: 2.9e+02
- length: 139",
-		length=139,
-		mean_cov=290.1058823529412];
-	145 -> 175	 [label="mean_cov: 2.24e+02
- length: 429",
-		length=429,
-		mean_cov=223.81066666666666];
-	148 -> 228	 [label="mean_cov: 39.4
- length: 111",
-		length=111,
-		mean_cov=39.421052631578945];
-	149 -> 50	 [label="mean_cov: 40.5
- length: 111",
-		length=111,
-		mean_cov=40.49122807017544];
-	156 -> 161	 [label="mean_cov: 2e+02
- length: 1384",
-		length=1384,
-		mean_cov=200.35413533834586];
-	157 -> 282	 [label="mean_cov: 2.29e+02
- length: 147",
-		length=147,
-		mean_cov=229.04301075268816];
-	160 -> 157	 [label="mean_cov: 2e+02
- length: 1384",
-		length=1384,
-		mean_cov=200.35413533834586];
-	161 -> 199	 [label="mean_cov: 2.25e+02
- length: 1838",
-		length=1838,
-		mean_cov=224.63677130044843];
-	163 -> 230	 [label="mean_cov: 2.2e+02
- length: 239",
-		length=239,
-		mean_cov=220.16216216216216];
-	170 -> 108	 [label="mean_cov: 2.17e+02
- length: 845",
-		length=845,
-		mean_cov=216.56890012642225];
-	171 -> 425	 [label="mean_cov: 2.22e+02
- length: 295",
-		length=295,
-		mean_cov=222.29460580912863];
-	172 -> 125	 [label="mean_cov: 2.37e+02
- length: 1205",
-		length=1205,
-		mean_cov=236.88705473501304];
-	173 -> 15	 [label="mean_cov: 2.63e+02
- length: 1615",
-		length=1615,
-		mean_cov=263.08776425368353];
-	174 -> 144	 [label="mean_cov: 2.24e+02
- length: 429",
-		length=429,
-		mean_cov=223.81066666666666];
-	175 -> 494	 [label="mean_cov: 2.01e+02
- length: 1192",
-		length=1192,
-		mean_cov=200.95518453427064];
-	177 -> 340	 [label="mean_cov: 1.53e+02
- length: 114",
-		length=114,
-		mean_cov=152.73333333333332];
-	179 -> 34	 [label="mean_cov: 7.32e+02
- length: 506",
-		length=506,
-		mean_cov=732.1460176991151];
-	181 -> 477	 [label="mean_cov: 1.14e+02
- length: 224",
-		length=224,
-		mean_cov=113.54117647058824];
-	183 -> 244	 [label="mean_cov: 1.65e+02
- length: 581",
-		length=581,
-		mean_cov=164.98861480075902];
-	184 -> 57	 [label="mean_cov: 2.43e+02
- length: 554",
-		length=554,
-		mean_cov=242.504];
-	187 -> 469	 [label="mean_cov: 2.55e+02
- length: 1420",
-		length=1420,
-		mean_cov=255.35724743777453];
-	188 -> 109	 [label="mean_cov: 2.02e+02
- length: 1078",
-		length=1078,
-		mean_cov=202.12109375];
-	189 -> 433	 [label="mean_cov: 2e+02
- length: 707",
-		length=707,
-		mean_cov=199.90352220520674];
-	191 -> 2	 [label="mean_cov: 60.6
- length: 117",
-		length=117,
-		mean_cov=60.57142857142857];
-	194 -> 313	 [label="mean_cov: 2.1e+02
- length: 1261",
-		length=1261,
-		mean_cov=209.5028997514499];
-	195 -> 432	 [label="mean_cov: 2.28e+02
- length: 3618",
-		length=3618,
-		mean_cov=228.3111672278339];
-	196 -> 236	 [label="mean_cov: 2.28e+02
- length: 588",
-		length=588,
-		mean_cov=228.29588014981275];
-	197 -> 523	 [label="mean_cov: 2.37e+02
- length: 1095",
-		length=1095,
-		mean_cov=236.56772334293947];
-	198 -> 160	 [label="mean_cov: 2.25e+02
- length: 1838",
-		length=1838,
-		mean_cov=224.63677130044843];
-	199 -> 495	 [label="mean_cov: 1.44e+02
- length: 221",
-		length=221,
-		mean_cov=144.20958083832335];
-	200 -> 431	 [label="mean_cov: 2.13e+02
- length: 631",
-		length=631,
-		mean_cov=212.75043327556327];
-	201 -> 440	 [label="mean_cov: 59.9
- length: 141",
-		length=141,
-		mean_cov=59.89655172413793];
-	202 -> 402	 [label="mean_cov: 2.13e+02
- length: 1686",
-		length=1686,
-		mean_cov=212.6311274509804];
-	203 -> 59	 [label="mean_cov: 2.31e+02
- length: 411",
-		length=411,
-		mean_cov=230.70028011204482];
-	205 -> 101	 [label="mean_cov: 6.09e+02
- length: 278",
-		length=278,
-		mean_cov=608.7767857142857];
-	206 -> 394	 [label="mean_cov: 1.94e+02
- length: 1032",
-		length=1032,
-		mean_cov=194.29550102249488];
-	207 -> 105	 [label="mean_cov: 2.12e+02
- length: 587",
-		length=587,
-		mean_cov=211.66791744840526];
-	210 -> 214	 [label="mean_cov: 2.78e+02
- length: 672",
-		length=672,
-		mean_cov=278.0177993527508];
-	211 -> 429	 [label="mean_cov: 2.08e+02
- length: 422",
-		length=422,
-		mean_cov=207.9320652173913];
-	212 -> 260	 [label="mean_cov: 2.39e+02
- length: 169",
-		length=169,
-		mean_cov=239.2521739130435];
-	213 -> 385	 [label="mean_cov: 2.62e+02
- length: 882",
-		length=882,
-		mean_cov=261.5978260869565];
-	214 -> 455	 [label="mean_cov: 1.87e+02
- length: 1072",
-		length=1072,
-		mean_cov=187.18958742632614];
-	215 -> 211	 [label="mean_cov: 2.78e+02
- length: 672",
-		length=672,
-		mean_cov=278.0177993527508];
-	216 -> 341	 [label="mean_cov: 1.32e+02
- length: 158",
-		length=158,
-		mean_cov=132.07692307692307];
-	217 -> 406	 [label="mean_cov: 1.89e+02
- length: 266",
-		length=266,
-		mean_cov=189.32075471698113];
-	218 -> 398	 [label="mean_cov: 1.52e+02
- length: 233",
-		length=233,
-		mean_cov=151.62569832402235];
-	219 -> 84	 [label="mean_cov: 2.02e+02
- length: 772",
-		length=772,
-		mean_cov=201.87047353760445];
-	224 -> 424	 [label="mean_cov: 2.15e+02
- length: 849",
-		length=849,
-		mean_cov=215.35849056603774];
-	225 -> 447	 [label="mean_cov: 1.04e+02
- length: 157",
-		length=157,
-		mean_cov=103.74757281553399];
-	226 -> 509	 [label="mean_cov: 2.28e+02
- length: 686",
-		length=686,
-		mean_cov=227.89398734177215];
-	227 -> 49	 [label="mean_cov: 2.12e+02
- length: 1955",
-		length=1955,
-		mean_cov=212.25565491846396];
-	229 -> 147	 [label="mean_cov: 39.4
- length: 111",
-		length=111,
-		mean_cov=39.421052631578945];
-	230 -> 418	 [label="mean_cov: 2.44e+02
- length: 928",
-		length=928,
-		mean_cov=244.33066361556064];
-	231 -> 162	 [label="mean_cov: 2.2e+02
- length: 239",
-		length=239,
-		mean_cov=220.16216216216216];
-	232 -> 514	 [label="mean_cov: 2.01e+02
- length: 968",
-		length=968,
-		mean_cov=200.83916849015318];
-	233 -> 371	 [label="mean_cov: 1.41e+02
- length: 165",
-		length=165,
-		mean_cov=141.4954954954955];
-	234 -> 284	 [label="mean_cov: 2.15e+02
- length: 1618",
-		length=1618,
-		mean_cov=215.08312020460357];
-	235 -> 61	 [label="mean_cov: 2.5e+02
- length: 1329",
-		length=1329,
-		mean_cov=249.75607843137254];
-	236 -> 142	 [label="mean_cov: 2.34e+02
- length: 724",
-		length=724,
-		mean_cov=234.22089552238805];
-	237 -> 197	 [label="mean_cov: 2.28e+02
- length: 588",
-		length=588,
-		mean_cov=228.29588014981275];
-	238 -> 335	 [label="mean_cov: 2.51e+02
- length: 1118",
-		length=1118,
-		mean_cov=251.25375939849624];
-	239 -> 261	 [label="mean_cov: 2.05e+02
- length: 520",
-		length=520,
-		mean_cov=205.1824034334764];
-	242 -> 36	 [label="mean_cov: 2.36e+02
- length: 532",
-		length=532,
-		mean_cov=235.69874476987448];
-	243 -> 348	 [label="mean_cov: 92.8
- length: 181",
-		length=181,
-		mean_cov=92.78740157480316];
-	244 -> 415	 [label="mean_cov: 2.41e+02
- length: 4738",
-		length=4738,
-		mean_cov=241.0108881298036];
-	245 -> 180	 [label="mean_cov: 1.65e+02
- length: 581",
-		length=581,
-		mean_cov=164.98861480075902];
-	250 -> 308	 [label="mean_cov: 1.91e+02
- length: 290",
-		length=290,
-		mean_cov=191.33474576271186];
-	251 -> 263	 [label="mean_cov: 2.24e+02
- length: 1663",
-		length=1663,
-		mean_cov=224.1597265382225];
-	252 -> 98	 [label="mean_cov: 3.68e+02
- length: 207",
-		length=207,
-		mean_cov=368.19607843137254];
-	253 -> 118	 [label="mean_cov: 1.46e+02
- length: 115",
-		length=115,
-		mean_cov=145.81967213114754];
-	254 -> 320	 [label="mean_cov: 2.55e+02
- length: 1404",
-		length=1404,
-		mean_cov=254.80666666666667];
-	255 -> 407	 [label="mean_cov: 2.59e+02
- length: 1450",
-		length=1450,
-		mean_cov=259.04083094555875];
-	257 -> 85	 [label="mean_cov: 2.36e+02
- length: 252",
-		length=252,
-		mean_cov=236.41919191919192];
-	258 -> 513	 [label="mean_cov: 2.19e+02
- length: 530",
-		length=530,
-		mean_cov=218.99159663865547];
-	259 -> 355	 [label="mean_cov: 1.66e+02
- length: 653",
-		length=653,
-		mean_cov=165.51919866444072];
-	260 -> 238	 [label="mean_cov: 2.05e+02
- length: 520",
-		length=520,
-		mean_cov=205.1824034334764];
-	261 -> 213	 [label="mean_cov: 2.39e+02
- length: 169",
-		length=169,
-		mean_cov=239.2521739130435];
-	262 -> 250	 [label="mean_cov: 2.24e+02
- length: 1663",
-		length=1663,
-		mean_cov=224.1597265382225];
-	263 -> 58	 [label="mean_cov: 2e+02
- length: 716",
-		length=716,
-		mean_cov=199.67522658610272];
-	265 -> 79	 [label="mean_cov: 2.5e+02
- length: 567",
-		length=567,
-		mean_cov=250.07797270955166];
-	274 -> 392	 [label="mean_cov: 1.59e+02
- length: 865",
-		length=865,
-		mean_cov=158.52774352651048];
-	275 -> 479	 [label="mean_cov: 1.87e+02
- length: 1312",
-		length=1312,
-		mean_cov=186.58744038155803];
-	282 -> 719	 [label="mean_cov: 1.27e+02
- length: 341",
-		length=341,
-		mean_cov=126.62020905923345];
-	283 -> 156	 [label="mean_cov: 2.29e+02
- length: 147",
-		length=147,
-		mean_cov=229.04301075268816];
-	284 -> 508	 [label="mean_cov: 2.24e+02
- length: 206",
-		length=206,
-		mean_cov=224.33552631578948];
-	285 -> 235	 [label="mean_cov: 2.15e+02
- length: 1618",
-		length=1618,
-		mean_cov=215.08312020460357];
-	288 -> 462	 [label="mean_cov: 2.12e+02
- length: 1909",
-		length=1909,
-		mean_cov=211.87654986522912];
-	289 -> 102	 [label="mean_cov: 2.12e+02
- length: 1632",
-		length=1632,
-		mean_cov=212.3891001267427];
-	291 -> 334	 [label="mean_cov: 2.35e+02
- length: 1887",
-		length=1887,
-		mean_cov=235.10310965630114];
-	292 -> 641	 [label="mean_cov: 1.41e+02
- length: 339",
-		length=339,
-		mean_cov=140.5719298245614];
-	302 -> 473	 [label="mean_cov: 2.88e+02
- length: 1127",
-		length=1127,
-		mean_cov=288.2814538676608];
-	303 -> 107	 [label="mean_cov: 33.4
- length: 111",
-		length=111,
-		mean_cov=33.40350877192982];
-	304 -> 86	 [label="mean_cov: 1.32e+02
- length: 323",
-		length=323,
-		mean_cov=131.56133828996283];
-	305 -> 428	 [label="mean_cov: 2.21e+02
- length: 979",
-		length=979,
-		mean_cov=220.80756756756756];
-	307 -> 251	 [label="mean_cov: 1.91e+02
- length: 290",
-		length=290,
-		mean_cov=191.33474576271186];
-	310 -> 55	 [label="mean_cov: 2.06e+02
- length: 186",
-		length=186,
-		mean_cov=206.31060606060606];
-	312 -> 195	 [label="mean_cov: 2.1e+02
- length: 1261",
-		length=1261,
-		mean_cov=209.5028997514499];
-	314 -> 56	 [label="mean_cov: 2.53e+02
- length: 606",
-		length=606,
-		mean_cov=252.5054347826087];
-	315 -> 140	 [label="mean_cov: 2.4e+02
- length: 697",
-		length=697,
-		mean_cov=239.59409020217728];
-	318 -> 506	 [label="mean_cov: 2.18e+02
- length: 420",
-		length=420,
-		mean_cov=218.48360655737704];
-	319 -> 534	 [label="mean_cov: 1.98e+02
- length: 394",
-		length=394,
-		mean_cov=198.15882352941176];
-	323 -> 255	 [label="mean_cov: 2.55e+02
- length: 1404",
-		length=1404,
-		mean_cov=254.80666666666667];
-	327 -> 103	 [label="mean_cov: 2.92e+02
- length: 226",
-		length=226,
-		mean_cov=291.5988372093023];
-	328 -> 53	 [label="mean_cov: 40.5
- length: 122",
-		length=122,
-		mean_cov=40.529411764705884];
-	329 -> 480	 [label="mean_cov: 2.03e+02
- length: 387",
-		length=387,
-		mean_cov=203.1831831831832];
-	330 -> 478	 [label="mean_cov: 2.01e+02
- length: 1219",
-		length=1219,
-		mean_cov=200.99828326180258];
-	331 -> 76	 [label="mean_cov: 1.92e+02
- length: 390",
-		length=390,
-		mean_cov=192.0922619047619];
-	334 -> 239	 [label="mean_cov: 2.51e+02
- length: 1118",
-		length=1118,
-		mean_cov=251.25375939849624];
-	335 -> 290	 [label="mean_cov: 2.35e+02
- length: 1887",
-		length=1887,
-		mean_cov=235.10310965630114];
-	337 -> 387	 [label="mean_cov: 1.86e+02
- length: 241",
-		length=241,
-		mean_cov=186.36363636363637];
-	339 -> 512	 [label="mean_cov: 1.9e+02
- length: 373",
-		length=373,
-		mean_cov=189.80564263322884];
-	340 -> 217	 [label="mean_cov: 1.32e+02
- length: 158",
-		length=158,
-		mean_cov=132.07692307692307];
-	341 -> 178	 [label="mean_cov: 1.53e+02
- length: 114",
-		length=114,
-		mean_cov=152.73333333333332];
-	348 -> 97	 [label="mean_cov: 2.63e+02
- length: 987",
-		length=987,
-		mean_cov=262.87352625937837];
-	349 -> 242	 [label="mean_cov: 92.8
- length: 181",
-		length=181,
-		mean_cov=92.78740157480316];
-	350 -> 64	 [label="mean_cov: 2.11e+02
- length: 465",
-		length=465,
-		mean_cov=211.1873479318735];
-	351 -> 515	 [label="mean_cov: 2.03e+02
- length: 1707",
-		length=1707,
-		mean_cov=202.67876588021778];
-	352 -> 104	 [label="mean_cov: 1.95e+02
- length: 3251",
-		length=3251,
-		mean_cov=195.25054738817641];
-	353 -> 422	 [label="mean_cov: 1.99e+02
- length: 594",
-		length=594,
-		mean_cov=198.67962962962963];
-	354 -> 258	 [label="mean_cov: 1.66e+02
- length: 653",
-		length=653,
-		mean_cov=165.51919866444072];
-	355 -> 442	 [label="mean_cov: 1.73e+02
- length: 1477",
-		length=1477,
-		mean_cov=172.61911454673225];
-	368 -> 48	 [label="mean_cov: 1.18e+02
- length: 112",
-		length=112,
-		mean_cov=118.29310344827586];
-	369 -> 421	 [label="mean_cov: 1.97e+02
- length: 398",
-		length=398,
-		mean_cov=196.53488372093022];
-	370 -> 232	 [label="mean_cov: 1.41e+02
- length: 165",
-		length=165,
-		mean_cov=141.4954954954955];
-	371 -> 436	 [label="mean_cov: 2.03e+02
- length: 905",
-		length=905,
-		mean_cov=203.31257344300823];
-	380 -> 35	 [label="mean_cov: 7.12e+02
- length: 370",
-		length=370,
-		mean_cov=712.1740506329114];
-	382 -> 522	 [label="mean_cov: 2.26e+02
- length: 1913",
-		length=1913,
-		mean_cov=225.9042495965573];
-	383 -> 132	 [label="mean_cov: 2.05e+02
- length: 1612",
-		length=1612,
-		mean_cov=204.69062901155328];
-	384 -> 212	 [label="mean_cov: 2.62e+02
- length: 882",
-		length=882,
-		mean_cov=261.5978260869565];
-	385 -> 423	 [label="mean_cov: 2.32e+02
- length: 1159",
-		length=1159,
-		mean_cov=231.5131221719457];
-	386 -> 336	 [label="mean_cov: 1.86e+02
- length: 241",
-		length=241,
-		mean_cov=186.36363636363637];
-	387 -> 122	 [label="mean_cov: 2.12e+02
- length: 281",
-		length=281,
-		mean_cov=211.59911894273128];
-	391 -> 87	 [label="mean_cov: 1.4e+02
- length: 195",
-		length=195,
-		mean_cov=139.5886524822695];
-	392 -> 403	 [label="mean_cov: 2.43e+02
- length: 1208",
-		length=1208,
-		mean_cov=242.6793760831889];
-	393 -> 275	 [label="mean_cov: 1.59e+02
- length: 865",
-		length=865,
-		mean_cov=158.52774352651048];
-	394 -> 483	 [label="mean_cov: 67.9
- length: 111",
-		length=111,
-		mean_cov=67.85964912280701];
-	395 -> 207	 [label="mean_cov: 1.94e+02
- length: 1032",
-		length=1032,
-		mean_cov=194.29550102249488];
-	398 -> 81	 [label="mean_cov: 2.14e+02
- length: 916",
-		length=916,
-		mean_cov=214.368909512761];
-	399 -> 219	 [label="mean_cov: 1.52e+02
- length: 233",
-		length=233,
-		mean_cov=151.62569832402235];
-	400 -> 120	 [label="mean_cov: 2.32e+02
- length: 1749",
-		length=1749,
-		mean_cov=231.62182890855456];
-	401 -> 1	 [label="mean_cov: 2.59e+02
- length: 821",
-		length=821,
-		mean_cov=259.16427640156456];
-	402 -> 393	 [label="mean_cov: 2.43e+02
- length: 1208",
-		length=1208,
-		mean_cov=242.6793760831889];
-	403 -> 203	 [label="mean_cov: 2.13e+02
- length: 1686",
-		length=1686,
-		mean_cov=212.6311274509804];
-	406 -> 254	 [label="mean_cov: 2.59e+02
- length: 1450",
-		length=1450,
-		mean_cov=259.04083094555875];
-	407 -> 216	 [label="mean_cov: 1.89e+02
- length: 266",
-		length=266,
-		mean_cov=189.32075471698113];
-	414 -> 245	 [label="mean_cov: 2.41e+02
- length: 4738",
-		length=4738,
-		mean_cov=241.0108881298036];
-	418 -> 426	 [label="mean_cov: 2.22e+02
- length: 1199",
-		length=1199,
-		mean_cov=222.31528384279477];
-	419 -> 231	 [label="mean_cov: 2.44e+02
- length: 928",
-		length=928,
-		mean_cov=244.33066361556064];
-	420 -> 368	 [label="mean_cov: 1.97e+02
- length: 398",
-		length=398,
-		mean_cov=196.53488372093022];
-	421 -> 446	 [label="mean_cov: 2.04e+02
- length: 1982",
-		length=1982,
-		mean_cov=203.89782157676348];
-	422 -> 384	 [label="mean_cov: 2.32e+02
- length: 1159",
-		length=1159,
-		mean_cov=231.5131221719457];
-	423 -> 352	 [label="mean_cov: 1.99e+02
- length: 594",
-		length=594,
-		mean_cov=198.67962962962963];
-	424 -> 170	 [label="mean_cov: 2.22e+02
- length: 295",
-		length=295,
-		mean_cov=222.29460580912863];
-	425 -> 225	 [label="mean_cov: 2.15e+02
- length: 849",
-		length=849,
-		mean_cov=215.35849056603774];
-	426 -> 482	 [label="mean_cov: 2.33e+02
- length: 1577",
-		length=1577,
-		mean_cov=233.16808929743925];
-	427 -> 419	 [label="mean_cov: 2.22e+02
- length: 1199",
-		length=1199,
-		mean_cov=222.31528384279477];
-	428 -> 210	 [label="mean_cov: 2.08e+02
- length: 422",
-		length=422,
-		mean_cov=207.9320652173913];
-	429 -> 304	 [label="mean_cov: 2.21e+02
- length: 979",
-		length=979,
-		mean_cov=220.80756756756756];
-	430 -> 201	 [label="mean_cov: 2.13e+02
- length: 631",
-		length=631,
-		mean_cov=212.75043327556327];
-	431 -> 121	 [label="mean_cov: 2.22e+02
- length: 236",
-		length=236,
-		mean_cov=222.14285714285714];
-	432 -> 188	 [label="mean_cov: 2e+02
- length: 707",
-		length=707,
-		mean_cov=199.90352220520674];
-	433 -> 194	 [label="mean_cov: 2.28e+02
- length: 3618",
-		length=3618,
-		mean_cov=228.3111672278339];
-	437 -> 370	 [label="mean_cov: 2.03e+02
- length: 905",
-		length=905,
-		mean_cov=203.31257344300823];
-	438 -> 507	 [label="mean_cov: 97.1
- length: 136",
-		length=136,
-		mean_cov=97.1219512195122];
-	441 -> 354	 [label="mean_cov: 1.73e+02
- length: 1477",
-		length=1477,
-		mean_cov=172.61911454673225];
-	443 -> 200	 [label="mean_cov: 59.9
- length: 141",
-		length=141,
-		mean_cov=59.89655172413793];
-	444 -> 535	 [label="mean_cov: 2.08e+02
- length: 1594",
-		length=1594,
-		mean_cov=208.2844155844156];
-	445 -> 138	 [label="mean_cov: 2.18e+02
- length: 618",
-		length=618,
-		mean_cov=218.41489361702128];
-	446 -> 224	 [label="mean_cov: 1.04e+02
- length: 157",
-		length=157,
-		mean_cov=103.74757281553399];
-	447 -> 420	 [label="mean_cov: 2.04e+02
- length: 1982",
-		length=1982,
-		mean_cov=203.89782157676348];
-	453 -> 454	 [label="mean_cov: 2e+02
- length: 2021",
-		length=2021,
-		mean_cov=199.62836807320792];
-	454 -> 215	 [label="mean_cov: 1.87e+02
- length: 1072",
-		length=1072,
-		mean_cov=187.18958742632614];
-	455 -> 450	 [label="mean_cov: 2e+02
- length: 2021",
-		length=2021,
-		mean_cov=199.62836807320792];
-	462 -> 476	 [label="mean_cov: 1.69e+02
- length: 232",
-		length=232,
-		mean_cov=168.8988764044944];
-	463 -> 289	 [label="mean_cov: 2.12e+02
- length: 1909",
-		length=1909,
-		mean_cov=211.87654986522912];
-	468 -> 184	 [label="mean_cov: 2.55e+02
- length: 1420",
-		length=1420,
-		mean_cov=255.35724743777453];
-	469 -> 119	 [label="mean_cov: 1.92e+02
- length: 1009",
-		length=1009,
-		mean_cov=191.9235602094241];
-	472 -> 303	 [label="mean_cov: 2.88e+02
- length: 1127",
-		length=1127,
-		mean_cov=288.2814538676608];
-	473 -> 54	 [label="mean_cov: 1.7e+02
- length: 167",
-		length=167,
-		mean_cov=170.23893805309734];
-	476 -> 182	 [label="mean_cov: 1.14e+02
- length: 224",
-		length=224,
-		mean_cov=113.54117647058824];
-	477 -> 463	 [label="mean_cov: 1.69e+02
- length: 232",
-		length=232,
-		mean_cov=168.8988764044944];
-	478 -> 274	 [label="mean_cov: 1.87e+02
- length: 1312",
-		length=1312,
-		mean_cov=186.58744038155803];
-	479 -> 331	 [label="mean_cov: 2.01e+02
- length: 1219",
-		length=1219,
-		mean_cov=200.99828326180258];
-	480 -> 0	 [label="mean_cov: 1.98e+02
- length: 166",
-		length=166,
-		mean_cov=197.70535714285714];
-	481 -> 328	 [label="mean_cov: 2.03e+02
- length: 387",
-		length=387,
-		mean_cov=203.1831831831832];
-	482 -> 395	 [label="mean_cov: 67.9
- length: 111",
-		length=111,
-		mean_cov=67.85964912280701];
-	483 -> 427	 [label="mean_cov: 2.33e+02
- length: 1577",
-		length=1577,
-		mean_cov=233.16808929743925];
-	494 -> 198	 [label="mean_cov: 1.44e+02
- length: 221",
-		length=221,
-		mean_cov=144.20958083832335];
-	495 -> 174	 [label="mean_cov: 2.01e+02
- length: 1192",
-		length=1192,
-		mean_cov=200.95518453427064];
-	506 -> 439	 [label="mean_cov: 97.1
- length: 136",
-		length=136,
-		mean_cov=97.1219512195122];
-	507 -> 319	 [label="mean_cov: 2.18e+02
- length: 420",
-		length=420,
-		mean_cov=218.48360655737704];
-	508 -> 227	 [label="mean_cov: 2.28e+02
- length: 686",
-		length=686,
-		mean_cov=227.89398734177215];
-	509 -> 285	 [label="mean_cov: 2.24e+02
- length: 206",
-		length=206,
-		mean_cov=224.33552631578948];
-	511 -> 77	 [label="mean_cov: 2.15e+02
- length: 276",
-		length=276,
-		mean_cov=214.53603603603602];
-	512 -> 259	 [label="mean_cov: 2.19e+02
- length: 530",
-		length=530,
-		mean_cov=218.99159663865547];
-	513 -> 338	 [label="mean_cov: 1.9e+02
- length: 373",
-		length=373,
-		mean_cov=189.80564263322884];
-	514 -> 350	 [label="mean_cov: 2.03e+02
- length: 1707",
-		length=1707,
-		mean_cov=202.67876588021778];
-	515 -> 233	 [label="mean_cov: 2.01e+02
- length: 968",
-		length=968,
-		mean_cov=200.83916849015318];
-	522 -> 196	 [label="mean_cov: 2.37e+02
- length: 1095",
-		length=1095,
-		mean_cov=236.56772334293947];
-	523 -> 383	 [label="mean_cov: 2.26e+02
- length: 1913",
-		length=1913,
-		mean_cov=225.9042495965573];
-	534 -> 445	 [label="mean_cov: 2.08e+02
- length: 1594",
-		length=1594,
-		mean_cov=208.2844155844156];
-	535 -> 318	 [label="mean_cov: 1.98e+02
- length: 394",
-		length=394,
-		mean_cov=198.15882352941176];
-	640 -> 293	 [label="mean_cov: 1.41e+02
- length: 339",
-		length=339,
-		mean_cov=140.5719298245614];
-	718 -> 283	 [label="mean_cov: 1.27e+02
- length: 341",
-		length=341,
-		mean_cov=126.62020905923345];
+		mean_cov=359.63157894736844];
+	49 -> 5	 [label="mean_cov: 3.93e+05
+ length: 1953",
+		length=1953,
+		mean_cov=201.0916538658474];
+	51 -> 9	 [label="mean_cov: 5.57e+05
+ length: 2375",
+		length=2375,
+		mean_cov=234.51242105263157];
+	52 -> 103	 [label="mean_cov: 3.53e+04
+ length: 286",
+		length=286,
+		mean_cov=123.48251748251748];
+	55 -> 82	 [label="mean_cov: 2.27e+06
+ length: 10649",
+		length=10649,
+		mean_cov=212.88928537890882];
+	56 -> 101	 [label="mean_cov: 3.9e+04
+ length: 284",
+		length=284,
+		mean_cov=137.39084507042253];
+	58 -> 63	 [label="mean_cov: 3.47e+05
+ length: 1315",
+		length=1315,
+		mean_cov=263.81825095057036];
+	60 -> 98	 [label="mean_cov: 1.9e+06
+ length: 9431",
+		length=9431,
+		mean_cov=201.95546601632913];
+	62 -> 59	 [label="mean_cov: 3.47e+05
+ length: 1315",
+		length=1315,
+		mean_cov=263.81825095057036];
+	64 -> 45	 [label="mean_cov: 1.75e+06
+ length: 8268",
+		length=8268,
+		mean_cov=212.05128205128204];
+	67 -> 42	 [label="mean_cov: 7.27e+05
+ length: 2955",
+		length=2955,
+		mean_cov=246.1560067681895];
+	69 -> 36	 [label="mean_cov: 8.06e+05
+ length: 3948",
+		length=3948,
+		mean_cov=204.11322188449847];
+	71 -> 39	 [label="mean_cov: 8.22e+05
+ length: 3660",
+		length=3660,
+		mean_cov=224.6568306010929];
+	73 -> 86	 [label="mean_cov: 9.94e+05
+ length: 5064",
+		length=5064,
+		mean_cov=196.2253159557662];
+	75 -> 89	 [label="mean_cov: 4.95e+05
+ length: 2813",
+		length=2813,
+		mean_cov=175.90152861713474];
+	77 -> 90	 [label="mean_cov: 4.48e+05
+ length: 2270",
+		length=2270,
+		mean_cov=197.57488986784142];
+	78 -> 32	 [label="mean_cov: 5.42e+05
+ length: 766",
+		length=766,
+		mean_cov=707.4164490861618];
+	81 -> 92	 [label="mean_cov: 1.06e+06
+ length: 5299",
+		length=5299,
+		mean_cov=200.27533496886204];
+	83 -> 54	 [label="mean_cov: 2.27e+06
+ length: 10649",
+		length=10649,
+		mean_cov=212.88928537890882];
+	84 -> 34	 [label="mean_cov: 1.19e+06
+ length: 5209",
+		length=5209,
+		mean_cov=227.5582645421386];
+	87 -> 72	 [label="mean_cov: 9.94e+05
+ length: 5064",
+		length=5064,
+		mean_cov=196.2253159557662];
+	88 -> 74	 [label="mean_cov: 4.95e+05
+ length: 2813",
+		length=2813,
+		mean_cov=175.90152861713474];
+	91 -> 76	 [label="mean_cov: 4.48e+05
+ length: 2270",
+		length=2270,
+		mean_cov=197.57488986784142];
+	93 -> 80	 [label="mean_cov: 1.06e+06
+ length: 5299",
+		length=5299,
+		mean_cov=200.27533496886204];
+	95 -> 30	 [label="mean_cov: 8.41e+05
+ length: 3723",
+		length=3723,
+		mean_cov=226.01799623959172];
+	97 -> 20	 [label="mean_cov: 5.76e+05
+ length: 2806",
+		length=2806,
+		mean_cov=205.09942979330006];
+	99 -> 61	 [label="mean_cov: 1.9e+06
+ length: 9431",
+		length=9431,
+		mean_cov=201.95546601632913];
+	100 -> 57	 [label="mean_cov: 3.9e+04
+ length: 284",
+		length=284,
+		mean_cov=137.39084507042253];
+	102 -> 53	 [label="mean_cov: 3.53e+04
+ length: 286",
+		length=286,
+		mean_cov=123.48251748251748];
 }
