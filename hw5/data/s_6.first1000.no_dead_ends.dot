@@ -1,25 +1,25 @@
 strict digraph "" {
-	0 -> 5	 [label="mean_cov: 5.6e+04
+	0 -> 5	 [label="mean_cov: 1.48e+02
  length: 378",
 		length=378,
 		mean_cov=148.0978835978836];
-	1 -> 6	 [label="mean_cov: 9.51e+04
+	1 -> 6	 [label="mean_cov: 1.72e+02
  length: 552",
 		length=552,
 		mean_cov=172.3586956521739];
-	2 -> 0	 [label="mean_cov: 29.0
+	2 -> 0	 [label="mean_cov: 9.67
  length: 3",
 		length=3,
 		mean_cov=9.666666666666666];
-	3 -> 1	 [label="mean_cov: 11.0
+	3 -> 1	 [label="mean_cov: 2.75
  length: 4",
 		length=4,
 		mean_cov=2.75];
-	4 -> 1	 [label="mean_cov: 3.53e+04
+	4 -> 1	 [label="mean_cov: 1.23e+02
  length: 286",
 		length=286,
 		mean_cov=123.48251748251748];
-	7 -> 0	 [label="mean_cov: 7.45e+04
+	7 -> 0	 [label="mean_cov: 1.62e+02
  length: 460",
 		length=460,
 		mean_cov=161.90652173913043];

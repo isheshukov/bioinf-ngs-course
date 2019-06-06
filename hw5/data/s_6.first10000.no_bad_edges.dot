@@ -1,33 +1,33 @@
 strict digraph "" {
-	0 -> 3	 [label="mean_cov: 4.54e+04
+	0 -> 3	 [label="mean_cov: 1.66e+02
  length: 273",
 		length=273,
 		mean_cov=166.4102564102564];
-	2 -> 1	 [label="mean_cov: 4.54e+04
+	2 -> 1	 [label="mean_cov: 1.66e+02
  length: 273",
 		length=273,
 		mean_cov=166.4102564102564];
-	5 -> 13	 [label="mean_cov: 9.01e+05
+	5 -> 13	 [label="mean_cov: 2.1e+02
  length: 4289",
 		length=4289,
 		mean_cov=210.10701795290277];
-	7 -> 9	 [label="mean_cov: 9.77e+05
+	7 -> 9	 [label="mean_cov: 2.04e+02
  length: 4789",
 		length=4789,
 		mean_cov=204.03549801628733];
-	8 -> 6	 [label="mean_cov: 9.77e+05
+	8 -> 6	 [label="mean_cov: 2.04e+02
  length: 4789",
 		length=4789,
 		mean_cov=204.03549801628733];
-	10 -> 15	 [label="mean_cov: 3.53e+04
+	10 -> 15	 [label="mean_cov: 1.23e+02
  length: 286",
 		length=286,
 		mean_cov=123.48251748251748];
-	12 -> 4	 [label="mean_cov: 9.01e+05
+	12 -> 4	 [label="mean_cov: 2.1e+02
  length: 4289",
 		length=4289,
 		mean_cov=210.10701795290277];
-	14 -> 11	 [label="mean_cov: 3.53e+04
+	14 -> 11	 [label="mean_cov: 1.23e+02
  length: 286",
 		length=286,
 		mean_cov=123.48251748251748];

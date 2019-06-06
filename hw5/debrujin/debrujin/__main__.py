@@ -75,16 +75,18 @@ def compute_mean_coverage(G, coverage, k):
         m = c = 0
         for i in seq2kmers(seq, k+1):
             m += coverage[i]
+            c += 1
 
-        return m
+        return m/c, c
 
     labels_dict = {}
     mean_cov = {}
     #length = {}
     for e in tqdm(G.edges(data=True), desc="Computing mean coverage"):
-        mean_cov[(e[0],e[1])] = seq_to_mean(e[2]['seq'], k)/e[2]['length']
+        mc, length = seq_to_mean(e[2]['seq'], k)
+        mean_cov[(e[0],e[1])] = mc
 
-        labels_dict[(e[0],e[1])] = f"mean_cov: {float(seq_to_mean(e[2]['seq'], k)):0.3}\n length: {e[2]['length']}"
+        labels_dict[(e[0],e[1])] = f"mean_cov: {float(mc):0.3}\n length: {length}"
     
     nx.set_edge_attributes(G, labels_dict, 'label')
     nx.set_edge_attributes(G, mean_cov, 'mean_cov')
